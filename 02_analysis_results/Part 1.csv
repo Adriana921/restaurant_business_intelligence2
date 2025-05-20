@@ -1,0 +1,1001 @@
+orders_id,item_price,quantity,item_category,item_name,created_date,created_at,delivery_address1,delivery_address2,delivery_city,delivery_zipcode,delivery
+1,14,8,Pizza,"Pizza Margherita Large",2023-01-01,11:44:56,"9 Utah Court","Apt 238",Queens,0007Q,1
+2,6,7,Side,"Garlic Bread",2023-01-01,11:44:56,"9 Utah Court","Apt 238",Queens,0007Q,1
+3,18,3,Pizza,"Pizza Parmigiana Large",2023-01-01,11:44:56,"9 Utah Court","Apt 238",Queens,0007Q,1
+4,18,1,Pizza,"Pizza Parmigiana Large",2023-01-01,11:44:56,"9 Utah Court","Apt 238",Queens,0007Q,1
+5,18,6,Pizza,"Pizza Napolitana Large",2023-01-01,11:44:56,"9 Utah Court","Apt 238",Queens,0007Q,1
+6,6,4,Dessert,"Strawberry Ice Cream",2023-01-01,12:43:00,"2368 Menomonie Point","Room 910",Brooklyn,0005B,1
+7,6,4,Beverage,"Coca Cola 1.5l",2023-01-01,12:43:00,"2368 Menomonie Point","Room 910",Brooklyn,0005B,1
+8,16,2,Pizza,"Pizza Napolitana Regular",2023-01-01,12:43:00,"2368 Menomonie Point","Room 910",Brooklyn,0005B,1
+9,3,6,Beverage,"Diet Coke 33cl",2023-01-01,12:43:00,"2368 Menomonie Point","Room 910",Brooklyn,0005B,1
+10,6,6,Beverage,"7 Up 1.5l",2023-01-01,12:03:27,"1 Lighthouse Bay Plaza",,Bronx,0004B,0
+11,4,6,Beverage,"Sparkling Water 1.5l",2023-01-01,12:03:27,"1 Lighthouse Bay Plaza",,Bronx,0004B,0
+12,19,6,Pizza,"Pizza Diavola Large",2023-01-01,12:03:27,"1 Lighthouse Bay Plaza",,Bronx,0004B,0
+13,6,6,Dessert,"Vanilla Ice Cream",2023-01-01,20:33:41,"99 Continental Pass",,Bronx,0004B,1
+14,3,1,Beverage,"Coca Cola 33cl",2023-01-01,20:33:41,"99 Continental Pass",,Bronx,0004B,1
+15,6,5,Beverage,"Coca Cola 1.5l",2023-01-01,20:33:41,"99 Continental Pass",,Bronx,0004B,1
+16,2,8,Beverage,"Sparkling Water 33cl",2023-01-01,11:36:00,"7530 Elka Place",,Brooklyn,0005B,1
+17,12,3,Pizza,"Pizza Margherita Regular",2023-01-01,11:36:00,"7530 Elka Place",,Brooklyn,0005B,1
+18,5,7,Side,Breadsticks,2023-01-01,22:20:10,"7530 Elka Place",,Brooklyn,0005B,0
+19,7,10,Side,"Caesar Salad",2023-01-01,22:20:10,"7530 Elka Place",,Brooklyn,0005B,0
+20,5,1,Dessert,"Chocolate Brownie",2023-01-01,18:49:00,"30096 School Center",,Manhattan,0001M,1
+21,17,8,Pizza,"Pizza Pepperoni Large",2023-01-01,10:30:20,"88 Hanover Drive",,Bronx,0004B,1
+22,6,9,Dessert,"Pistachio Ice Crearn",2023-01-01,10:30:20,"88 Hanover Drive",,Bronx,0004B,1
+23,6,5,Dessert,"Chocolate Ice Cream",2023-01-01,21:56:27,"038 Loftsgordon Way",,Queens,0007Q,0
+24,18,5,Pizza,"Pizza Napolitana Large",2023-01-01,21:56:27,"038 Loftsgordon Way",,Queens,0007Q,0
+25,17,7,Pizza,"Pizza Seafood Regular",2023-01-01,22:32:33,"178 Morning Place","Apt 1530",Bronx,0004B,0
+26,16,3,Pizza,"Pizza Quattro Formaggi Regular",2023-01-01,22:32:33,"178 Morning Place","Apt 1530",Bronx,0004B,0
+27,3,3,Beverage,"7 Up 33cl",2023-01-01,22:32:33,"178 Morning Place","Apt 1530",Bronx,0004B,0
+28,12,9,Pizza,"Pizza Margherita Regular",2023-01-01,22:32:33,"178 Morning Place","Apt 1530",Bronx,0004B,0
+29,17,10,Pizza,"Pizza Hawaiian Large",2023-01-02,22:32:33,"178 Morning Place","Apt 1530",Bronx,0004B,0
+30,2,10,Beverage,"Sparkling Water 33cl",2023-01-02,11:51:25,"8 Kropf Crossing",,Manhattan,0001M,1
+31,14,5,Pizza,"Pizza Margherita Large",2023-01-02,11:51:25,"8 Kropf Crossing",,Manhattan,0001M,1
+32,17,6,Pizza,"Pizza Pepperoni Large",2023-01-02,11:51:25,"8 Kropf Crossing",,Manhattan,0001M,1
+33,18,5,Pizza,"Pizza Parmigiana Large",2023-01-02,11:51:25,"8 Kropf Crossing",,Manhattan,0001M,1
+34,5,1,Dessert,"Chocolate Brownie",2023-01-02,22:54:55,"95505 Oakridge Alley",,Brooklyn,0005B,1
+35,6,4,Dessert,"Vanilla Ice Cream",2023-01-02,22:54:55,"95505 Oakridge Alley",,Brooklyn,0005B,1
+36,3,3,Beverage,"Coca Cola 33cl",2023-01-02,22:54:55,"95505 Oakridge Alley",,Brooklyn,0005B,1
+37,7,8,Side,"Chicken Wings",2023-01-02,22:35:32,"1 Almo Road",,Brooklyn,0005B,0
+38,15,6,Pizza,"Pizza Parmigiana Regular",2023-01-02,22:35:32,"1 Almo Road",,Brooklyn,0005B,0
+39,17,10,Pizza,"Pizza Hawaiian Large",2023-01-02,22:35:32,"1 Almo Road",,Brooklyn,0005B,0
+40,19,1,Pizza,"Pizza Diavola Large",2023-01-02,19:57:59,"35722 Russell Street",,"Staten Island",0010SI,1
+41,16,5,Pizza,"Pizza Diavola Regular",2023-01-02,19:57:59,"35722 Russell Street",,"Staten Island",0010SI,1
+42,16,1,Pizza,"Pizza Diavola Regular",2023-01-03,19:57:59,"35722 Russell Street",,"Staten Island",0010SI,1
+43,18,1,Pizza,"Pizza Parmigiana Large",2023-01-03,19:57:59,"35722 Russell Street",,"Staten Island",0010SI,1
+44,6,10,Side,"Garlic Bread",2023-01-03,13:28:00,"86 Jay Alley",,Queens,0007Q,1
+45,20,8,Pizza,"Pizza Seafood Large",2023-01-03,13:28:00,"86 Jay Alley",,Queens,0007Q,1
+46,17,3,Pizza,"Pizza Pepperoni Large",2023-01-03,11:29:45,"5267 Melvin Pass",,Brooklyn,0005B,0
+47,12,4,Pizza,"Pizza Margherita Regular",2023-01-03,11:29:45,"5267 Melvin Pass",,Brooklyn,0005B,0
+48,17,3,Pizza,"Pizza Hawaiian Large",2023-01-03,11:29:45,"5267 Melvin Pass",,Brooklyn,0005B,0
+49,16,7,Pizza,"Pizza Diavola Regular",2023-01-03,13:11:53,"473 Colorado Junction",,"Staten Island",0010SI,1
+50,3,5,Beverage,"Coca Cola 33cl",2023-01-03,22:37:05,"13378 Hoepker Point",,Brooklyn,0005B,1
+51,2,3,Beverage,"Sparkling Water 33cl",2023-01-03,22:37:05,"13378 Hoepker Point",,Brooklyn,0005B,1
+52,6,3,Dessert,"Strawberry Ice Cream",2023-01-03,22:41:24,"79992 Bultman Pass",,Queens,0007Q,0
+53,6,5,Beverage,"7 Up 1.5l",2023-01-03,22:41:24,"79992 Bultman Pass",,Queens,0007Q,0
+54,18,10,Pizza,"Pizza Napolitana Large",2023-01-03,22:41:24,"79992 Bultman Pass",,Queens,0007Q,0
+55,6,8,Dessert,"Strawberry Ice Cream",2023-01-03,22:41:24,"79992 Bultman Pass",,Queens,0007Q,0
+56,16,10,Pizza,"Pizza Napolitana Regular",2023-01-03,22:41:24,"79992 Bultman Pass",,Queens,0007Q,0
+57,17,9,Pizza,"Pizza Hawaiian Large",2023-01-03,22:41:24,"79992 Bultman Pass",,Queens,0007Q,0
+58,6,1,Beverage,"Coca Cola 1.5l",2023-01-03,20:54:31,"5170 Armistice Hill","Room 589","Staten Island",0010SI,0
+59,7,3,Side,"Chicken Wings",2023-01-04,21:17:49,"6241 Artisan Center","Apt 424",Queens,0007Q,0
+60,3,10,Beverage,"Diet Coke 33cl",2023-01-04,21:17:49,"6241 Artisan Center","Apt 424",Queens,0007Q,0
+61,4,7,Beverage,"Sparkling Water 1.5l",2023-01-04,21:17:49,"6241 Artisan Center","Apt 424",Queens,0007Q,0
+62,3,3,Beverage,"Diet Coke 33cl",2023-01-04,21:17:49,"6241 Artisan Center","Apt 424",Queens,0007Q,0
+63,14,2,Pizza,"Pizza Margherita Large",2023-01-04,22:50:26,"71388 Ridgeview Point",,Brooklyn,0005B,1
+64,19,5,Pizza,"Pizza Diavola Large",2023-01-04,22:50:26,"71388 Ridgeview Point",,Brooklyn,0005B,1
+65,6,8,Dessert,"Chocolate Ice Cream",2023-01-04,11:00:04,"79992 Bultman Pass",,Queens,0007Q,1
+66,4,9,Beverage,"Sparkling Water 1.5l",2023-01-04,11:00:04,"79992 Bultman Pass",,Queens,0007Q,1
+67,7,3,Dessert,"Banoffee Pie",2023-01-04,20:25:04,"038 Loftsgordon Way",,Queens,0007Q,0
+68,14,6,Pizza,"Pizza Margherita Large",2023-01-04,20:25:04,"038 Loftsgordon Way",,Queens,0007Q,0
+69,4,6,Beverage,"Sparkling Water 1.5l",2023-01-04,20:25:04,"038 Loftsgordon Way",,Queens,0007Q,0
+70,19,8,Pizza,"Pizza Diavola Large",2023-01-04,21:08:49,"67019 Mendota Crossing",,Brooklyn,0005B,1
+71,15,1,Pizza,"Pizza Pepperoni Regular",2023-01-04,21:08:49,"67019 Mendota Crossing",,Brooklyn,0005B,1
+72,18,3,Pizza,"Pizza Napolitana Large",2023-01-04,21:08:49,"67019 Mendota Crossing",,Brooklyn,0005B,1
+73,17,8,Pizza,"Pizza Pepperoni Large",2023-01-04,21:08:49,"67019 Mendota Crossing",,Brooklyn,0005B,1
+74,7,1,Dessert,"Banoffee Pie",2023-01-04,21:08:49,"67019 Mendota Crossing",,Brooklyn,0005B,1
+75,2,1,Beverage,"Sparkling Water 33cl",2023-01-04,21:08:49,"67019 Mendota Crossing",,Brooklyn,0005B,1
+76,6,7,Beverage,"Fanta 1.5l",2023-01-04,12:50:07,"83 Oriole Road","Room 1567",Queens,0007Q,1
+77,19,3,Pizza,"Pizza Quattro Formaggi Large",2023-01-04,12:50:07,"83 Oriole Road","Room 1567",Queens,0007Q,1
+78,16,9,Pizza,"Pizza Diavola Regular",2023-01-04,12:50:07,"83 Oriole Road","Room 1567",Queens,0007Q,1
+79,2,6,Beverage,"Sparkling Water 33cl",2023-01-04,12:50:07,"83 Oriole Road","Room 1567",Queens,0007Q,1
+80,16,9,Pizza,"Pizza Napolitana Regular",2023-01-04,19:41:45,"43 Red Cloud Crossing",,"Staten Island",0010SI,0
+81,5,8,Side,Breadsticks,2023-01-04,12:18:45,"9 Duke Way",,Queens,0007Q,0
+82,5,9,Dessert,"Fruit salad",2023-01-04,13:30:51,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+83,5,1,Dessert,"Chocolate Brownie",2023-01-04,13:30:51,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+84,3,10,Beverage,"Diet Coke 33cl",2023-01-05,13:30:51,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+85,5,8,Dessert,"Fruit salad",2023-01-05,12:26:50,"5093 Westridge Way",,Brooklyn,0005B,0
+86,3,6,Beverage,"7 Up 33cl",2023-01-05,12:26:50,"5093 Westridge Way",,Brooklyn,0005B,0
+87,20,4,Pizza,"Pizza Seafood Large",2023-01-05,12:26:50,"5093 Westridge Way",,Brooklyn,0005B,0
+88,2,10,Beverage,"Sparkling Water 33cl",2023-01-05,21:36:01,"0566 Bashford Street","Apt 1112",Brooklyn,0005B,1
+89,20,6,Pizza,"Pizza Seafood Large",2023-01-05,21:36:01,"0566 Bashford Street","Apt 1112",Brooklyn,0005B,1
+90,17,4,Pizza,"Pizza Seafood Regular",2023-01-05,20:43:26,"5415 Spohn Junction",,Queens,0007Q,1
+91,6,6,Beverage,"Coca Cola 1.5l",2023-01-05,22:17:09,"4458 Twin Pines Crossing","PO Box 93258",Brooklyn,0005B,0
+92,2,5,Beverage,"Sparkling Water 33cl",2023-01-05,22:17:09,"4458 Twin Pines Crossing","PO Box 93258",Brooklyn,0005B,0
+93,6,4,Beverage,"Coca Cola 1.5l",2023-01-05,22:17:09,"4458 Twin Pines Crossing","PO Box 93258",Brooklyn,0005B,0
+94,3,3,Beverage,"7 Up 33cl",2023-01-05,22:17:09,"4458 Twin Pines Crossing","PO Box 93258",Brooklyn,0005B,0
+95,19,6,Pizza,"Pizza Quattro Formaggi Large",2023-01-05,22:44:07,"13 Fulton Avenue","Room 1496",Manhattan,0001M,1
+96,14,5,Pizza,"Pizza Margherita Large",2023-01-05,22:44:07,"13 Fulton Avenue","Room 1496",Manhattan,0001M,1
+97,20,7,Pizza,"Pizza Seafood Large",2023-01-05,18:40:24,"73 Longview Point",,Bronx,0004B,1
+98,15,6,Pizza,"Pizza Hawaiian Regular",2023-01-05,18:40:24,"73 Longview Point",,Bronx,0004B,1
+99,6,9,Dessert,"Vanilla Ice Cream",2023-01-05,13:14:26,"693 Bellgrove Crossing",,Brooklyn,0005B,0
+100,4,7,Beverage,"Sparkling Water 1.5l",2023-01-05,13:14:26,"693 Bellgrove Crossing",,Brooklyn,0005B,0
+101,6,3,Beverage,"Diet Coke 1.5l",2023-01-05,13:14:26,"693 Bellgrove Crossing",,Brooklyn,0005B,0
+102,18,2,Pizza,"Pizza Napolitana Large",2023-01-05,22:15:01,"13 Fulton Avenue","Room 1496",Manhattan,0001M,0
+103,19,9,Pizza,"Pizza Quattro Formaggi Large",2023-01-05,22:15:01,"13 Fulton Avenue","Room 1496",Manhattan,0001M,0
+104,18,2,Pizza,"Pizza Parmigiana Large",2023-01-05,22:15:01,"13 Fulton Avenue","Room 1496",Manhattan,0001M,0
+105,3,6,Beverage,"Coca Cola 33cl",2023-01-05,13:26:39,"226 Scott Center",,Brooklyn,0005B,1
+106,7,10,Side,"Caesar Salad",2023-01-05,13:26:39,"226 Scott Center",,Brooklyn,0005B,1
+107,14,5,Pizza,"Pizza Margherita Large",2023-01-05,22:39:53,"30 Fremont Pass",,Queens,0007Q,1
+108,7,8,Side,"Caesar Salad",2023-01-05,21:36:37,"406 Kropf Circle",,"Staten Island",0010SI,0
+109,16,2,Pizza,"Pizza Napolitana Regular",2023-01-05,21:36:37,"406 Kropf Circle",,"Staten Island",0010SI,0
+110,6,2,Beverage,"7 Up 1.5l",2023-01-05,21:36:37,"406 Kropf Circle",,"Staten Island",0010SI,0
+111,16,2,Pizza,"Pizza Diavola Regular",2023-01-05,21:36:37,"406 Kropf Circle",,"Staten Island",0010SI,0
+112,14,4,Pizza,"Pizza Margherita Large",2023-01-05,21:36:37,"406 Kropf Circle",,"Staten Island",0010SI,0
+113,19,4,Pizza,"Pizza Quattro Formaggi Large",2023-01-05,21:36:37,"406 Kropf Circle",,"Staten Island",0010SI,0
+114,17,4,Pizza,"Pizza Pepperoni Large",2023-01-05,21:34:40,"4 Maple Wood Street",,Manhattan,0001M,1
+115,17,4,Pizza,"Pizza Seafood Regular",2023-01-05,21:34:40,"4 Maple Wood Street",,Manhattan,0001M,1
+116,16,6,Pizza,"Pizza Napolitana Regular",2023-01-05,21:34:40,"4 Maple Wood Street",,Manhattan,0001M,1
+117,16,4,Pizza,"Pizza Napolitana Regular",2023-01-05,21:34:40,"4 Maple Wood Street",,Manhattan,0001M,1
+118,5,4,Dessert,"Fruit salad",2023-01-05,21:34:40,"4 Maple Wood Street",,Manhattan,0001M,1
+119,2,9,Beverage,"Sparkling Water 33cl",2023-01-05,11:42:47,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+120,17,8,Pizza,"Pizza Seafood Regular",2023-01-05,19:16:58,"7407 Service Court",,Manhattan,0001M,1
+121,3,8,Beverage,"7 Up 33cl",2023-01-05,19:16:58,"7407 Service Court",,Manhattan,0001M,1
+122,4,2,Beverage,"Sparkling Water 1.5l",2023-01-05,13:05:50,"176 Evergreen Junction",,Brooklyn,0005B,1
+123,3,4,Beverage,"Coca Cola 33cl",2023-01-05,13:05:50,"176 Evergreen Junction",,Brooklyn,0005B,1
+124,6,4,Dessert,"Chocolate Ice Cream",2023-01-05,13:05:50,"176 Evergreen Junction",,Brooklyn,0005B,1
+125,6,7,Dessert,"Strawberry Ice Cream",2023-01-05,13:05:50,"176 Evergreen Junction",,Brooklyn,0005B,1
+126,6,2,Dessert,"Pistachio Ice Crearn",2023-01-05,13:05:50,"176 Evergreen Junction",,Brooklyn,0005B,1
+127,6,9,Beverage,"Coca Cola 1.5l",2023-01-05,10:39:24,"2018 Holmberg Point",,Bronx,0004B,0
+128,15,6,Pizza,"Pizza Parmigiana Regular",2023-01-05,10:39:24,"2018 Holmberg Point",,Bronx,0004B,0
+129,14,7,Pizza,"Pizza Margherita Large",2023-01-05,10:39:24,"2018 Holmberg Point",,Bronx,0004B,0
+130,17,3,Pizza,"Pizza Seafood Regular",2023-01-05,19:29:13,"473 Colorado Junction",,"Staten Island",0010SI,0
+131,15,4,Pizza,"Pizza Hawaiian Regular",2023-01-05,21:06:32,"730 Mallard Point",,"Staten Island",0010SI,1
+132,19,6,Pizza,"Pizza Quattro Formaggi Large",2023-01-05,21:06:32,"730 Mallard Point",,"Staten Island",0010SI,1
+133,3,6,Beverage,"Diet Coke 33cl",2023-01-05,12:21:48,"8085 Ridgeway Trail",,Brooklyn,0005B,1
+134,3,2,Beverage,"7 Up 33cl",2023-01-05,12:21:48,"8085 Ridgeway Trail",,Brooklyn,0005B,1
+135,15,2,Pizza,"Pizza Hawaiian Regular",2023-01-05,11:14:42,"980 Wayridge Way",,Queens,0007Q,0
+136,16,1,Pizza,"Pizza Diavola Regular",2023-01-05,11:14:42,"980 Wayridge Way",,Queens,0007Q,0
+137,14,7,Pizza,"Pizza Margherita Large",2023-01-05,11:14:42,"980 Wayridge Way",,Queens,0007Q,0
+138,2,9,Beverage,"Sparkling Water 33cl",2023-01-05,21:45:29,"87526 3rd Place",,Brooklyn,0005B,1
+139,6,1,Beverage,"Diet Coke 1.5l",2023-01-05,21:45:29,"87526 3rd Place",,Brooklyn,0005B,1
+140,14,6,Pizza,"Pizza Margherita Large",2023-01-05,21:45:29,"87526 3rd Place",,Brooklyn,0005B,1
+141,6,5,Beverage,"Diet Coke 1.5l",2023-01-05,13:43:45,"87050 Valley Edge Plaza",,Manhattan,0001M,0
+142,16,9,Pizza,"Pizza Quattro Formaggi Regular",2023-01-05,13:43:45,"87050 Valley Edge Plaza",,Manhattan,0001M,0
+143,6,6,Beverage,"Coca Cola 1.5l",2023-01-05,13:43:45,"87050 Valley Edge Plaza",,Manhattan,0001M,0
+144,17,1,Pizza,"Pizza Pepperoni Large",2023-01-05,19:10:11,"3 Bay Junction","Suite 42","Staten Island",0010SI,1
+145,7,4,Side,"Caesar Salad",2023-01-05,13:32:06,"30096 School Center",,Manhattan,0001M,1
+146,17,5,Pizza,"Pizza Pepperoni Large",2023-01-05,11:20:33,"0 Arapahoe Pass",,Brooklyn,0005B,0
+147,3,5,Beverage,"Fanta 33cl",2023-01-05,11:20:33,"0 Arapahoe Pass",,Brooklyn,0005B,0
+148,19,2,Pizza,"Pizza Diavola Large",2023-01-05,20:50:34,"896 Duke Junction","8th Floor","Staten Island",0010SI,0
+149,3,3,Beverage,"Fanta 33cl",2023-01-05,20:50:34,"896 Duke Junction","8th Floor","Staten Island",0010SI,0
+150,7,2,Side,"Chicken Wings",2023-01-05,20:50:34,"896 Duke Junction","8th Floor","Staten Island",0010SI,0
+151,6,8,Dessert,"Vanilla Ice Cream",2023-01-05,20:50:34,"896 Duke Junction","8th Floor","Staten Island",0010SI,0
+152,7,1,Dessert,"Banoffee Pie",2023-01-05,20:50:34,"896 Duke Junction","8th Floor","Staten Island",0010SI,0
+153,3,1,Beverage,"7 Up 33cl",2023-01-05,12:10:34,"1 Lakeland Pass",,Bronx,0004B,1
+154,6,10,Beverage,"Coca Cola 1.5l",2023-01-05,12:10:34,"1 Lakeland Pass",,Bronx,0004B,1
+155,6,3,Side,"Garlic Bread",2023-01-05,19:26:36,"259 Arrowood Avenue",,Manhattan,0001M,0
+156,6,8,Dessert,"Chocolate Ice Cream",2023-01-05,19:26:36,"259 Arrowood Avenue",,Manhattan,0001M,0
+157,3,1,Beverage,"Diet Coke 33cl",2023-01-05,19:26:36,"259 Arrowood Avenue",,Manhattan,0001M,0
+158,15,2,Pizza,"Pizza Parmigiana Regular",2023-01-05,19:26:36,"259 Arrowood Avenue",,Manhattan,0001M,0
+159,5,9,Dessert,"Chocolate Brownie",2023-01-06,18:44:30,"71961 Mendota Alley",,Manhattan,0001M,1
+160,15,9,Pizza,"Pizza Hawaiian Regular",2023-01-06,18:44:30,"71961 Mendota Alley",,Manhattan,0001M,1
+161,16,7,Pizza,"Pizza Quattro Formaggi Regular",2023-01-06,18:44:30,"71961 Mendota Alley",,Manhattan,0001M,1
+162,3,1,Beverage,"Fanta 33cl",2023-01-06,18:44:30,"71961 Mendota Alley",,Manhattan,0001M,1
+163,7,4,Side,"Caesar Salad",2023-01-06,18:44:30,"71961 Mendota Alley",,Manhattan,0001M,1
+164,6,3,Dessert,"Strawberry Ice Cream",2023-01-06,20:54:42,"847 Blackbird Road",,Brooklyn,0005B,1
+165,6,6,Beverage,"7 Up 1.5l",2023-01-06,20:54:42,"847 Blackbird Road",,Brooklyn,0005B,1
+166,20,2,Pizza,"Pizza Seafood Large",2023-01-06,20:54:42,"847 Blackbird Road",,Brooklyn,0005B,1
+167,6,7,Dessert,"Pistachio Ice Crearn",2023-01-06,20:54:42,"847 Blackbird Road",,Brooklyn,0005B,1
+168,16,4,Pizza,"Pizza Diavola Regular",2023-01-06,11:16:16,"61054 Monument Crossing",,Manhattan,0001M,0
+169,12,5,Pizza,"Pizza Margherita Regular",2023-01-06,11:16:16,"61054 Monument Crossing",,Manhattan,0001M,0
+170,14,9,Pizza,"Pizza Margherita Large",2023-01-06,11:16:16,"61054 Monument Crossing",,Manhattan,0001M,0
+171,2,10,Beverage,"Sparkling Water 33cl",2023-01-06,11:16:16,"61054 Monument Crossing",,Manhattan,0001M,0
+172,5,10,Side,Breadsticks,2023-01-06,11:16:16,"61054 Monument Crossing",,Manhattan,0001M,0
+173,19,7,Pizza,"Pizza Diavola Large",2023-01-06,11:16:16,"61054 Monument Crossing",,Manhattan,0001M,0
+174,3,2,Beverage,"Diet Coke 33cl",2023-01-06,11:16:16,"61054 Monument Crossing",,Manhattan,0001M,0
+175,18,6,Pizza,"Pizza Parmigiana Large",2023-01-06,12:40:49,"61054 Monument Crossing",,Manhattan,0001M,1
+176,2,4,Beverage,"Sparkling Water 33cl",2023-01-06,12:40:49,"61054 Monument Crossing",,Manhattan,0001M,1
+177,6,4,Beverage,"7 Up 1.5l",2023-01-06,18:32:49,"61054 Monument Crossing",,Manhattan,0001M,1
+178,16,2,Pizza,"Pizza Quattro Formaggi Regular",2023-01-06,18:32:49,"61054 Monument Crossing",,Manhattan,0001M,1
+179,7,7,Side,"Chicken Wings",2023-01-06,18:32:49,"61054 Monument Crossing",,Manhattan,0001M,1
+180,6,1,Dessert,"Chocolate Ice Cream",2023-01-06,18:32:49,"61054 Monument Crossing",,Manhattan,0001M,1
+181,17,8,Pizza,"Pizza Hawaiian Large",2023-01-06,18:32:49,"61054 Monument Crossing",,Manhattan,0001M,1
+182,19,2,Pizza,"Pizza Diavola Large",2023-01-06,12:28:39,"1 Anhalt Circle",,Queens,0007Q,0
+183,19,2,Pizza,"Pizza Quattro Formaggi Large",2023-01-06,12:28:39,"1 Anhalt Circle",,Queens,0007Q,0
+184,3,1,Beverage,"Coca Cola 33cl",2023-01-06,12:28:39,"1 Anhalt Circle",,Queens,0007Q,0
+185,5,6,Dessert,"Fruit salad",2023-01-06,22:18:19,"1668 Emmet Park",,Manhattan,0001M,0
+186,6,9,Beverage,"7 Up 1.5l",2023-01-06,22:18:19,"1668 Emmet Park",,Manhattan,0001M,0
+187,16,7,Pizza,"Pizza Quattro Formaggi Regular",2023-01-06,22:18:19,"1668 Emmet Park",,Manhattan,0001M,0
+188,4,6,Beverage,"Sparkling Water 1.5l",2023-01-06,20:45:45,"1668 Emmet Park",,Manhattan,0001M,1
+189,16,7,Pizza,"Pizza Napolitana Regular",2023-01-06,20:45:45,"1668 Emmet Park",,Manhattan,0001M,1
+190,5,6,Dessert,"Fruit salad",2023-01-06,20:45:45,"1668 Emmet Park",,Manhattan,0001M,1
+191,12,4,Pizza,"Pizza Margherita Regular",2023-01-06,20:41:16,"61054 Monument Crossing",,Manhattan,0001M,1
+192,3,1,Beverage,"Coca Cola 33cl",2023-01-06,20:41:16,"61054 Monument Crossing",,Manhattan,0001M,1
+193,3,4,Beverage,"Diet Coke 33cl",2023-01-06,19:47:51,"61054 Monument Crossing",,Manhattan,0001M,0
+194,15,1,Pizza,"Pizza Pepperoni Regular",2023-01-06,10:58:20,"147 Arizona Plaza",,"Staten Island",0010SI,1
+195,6,1,Dessert,"Pistachio Ice Crearn",2023-01-06,10:58:20,"147 Arizona Plaza",,"Staten Island",0010SI,1
+196,6,5,Beverage,"Diet Coke 1.5l",2023-01-06,10:58:20,"147 Arizona Plaza",,"Staten Island",0010SI,1
+197,3,7,Beverage,"Fanta 33cl",2023-01-06,22:01:09,"147 Arizona Plaza",,"Staten Island",0010SI,1
+198,16,8,Pizza,"Pizza Diavola Regular",2023-01-06,22:01:09,"147 Arizona Plaza",,"Staten Island",0010SI,1
+199,19,10,Pizza,"Pizza Quattro Formaggi Large",2023-01-06,22:01:09,"147 Arizona Plaza",,"Staten Island",0010SI,1
+200,4,3,Beverage,"Sparkling Water 1.5l",2023-01-06,22:01:09,"147 Arizona Plaza",,"Staten Island",0010SI,1
+201,17,4,Pizza,"Pizza Pepperoni Large",2023-01-06,12:01:12,"147 Arizona Plaza",,"Staten Island",0010SI,0
+202,19,9,Pizza,"Pizza Diavola Large",2023-01-06,12:01:12,"147 Arizona Plaza",,"Staten Island",0010SI,0
+203,16,10,Pizza,"Pizza Quattro Formaggi Regular",2023-01-06,12:01:12,"147 Arizona Plaza",,"Staten Island",0010SI,0
+204,19,5,Pizza,"Pizza Quattro Formaggi Large",2023-01-06,19:09:51,"147 Arizona Plaza",,"Staten Island",0010SI,1
+205,2,3,Beverage,"Sparkling Water 33cl",2023-01-06,19:09:51,"147 Arizona Plaza",,"Staten Island",0010SI,1
+206,6,7,Beverage,"Diet Coke 1.5l",2023-01-06,19:09:51,"147 Arizona Plaza",,"Staten Island",0010SI,1
+207,6,8,Side,"Garlic Bread",2023-01-06,18:53:37,"147 Arizona Plaza",,"Staten Island",0010SI,1
+208,12,4,Pizza,"Pizza Margherita Regular",2023-01-06,18:53:37,"147 Arizona Plaza",,"Staten Island",0010SI,1
+209,15,9,Pizza,"Pizza Pepperoni Regular",2023-01-06,18:53:37,"147 Arizona Plaza",,"Staten Island",0010SI,1
+210,5,2,Dessert,"Fruit salad",2023-01-06,18:53:37,"147 Arizona Plaza",,"Staten Island",0010SI,1
+211,6,9,Side,"Garlic Bread",2023-01-06,12:45:40,"147 Arizona Plaza",,"Staten Island",0010SI,0
+212,6,9,Side,"Garlic Bread",2023-01-06,12:45:40,"147 Arizona Plaza",,"Staten Island",0010SI,0
+213,3,2,Beverage,"Fanta 33cl",2023-01-06,12:45:40,"147 Arizona Plaza",,"Staten Island",0010SI,0
+214,5,10,Side,Breadsticks,2023-01-06,12:49:23,"147 Arizona Plaza",,"Staten Island",0010SI,1
+215,3,3,Beverage,"7 Up 33cl",2023-01-06,12:49:23,"147 Arizona Plaza",,"Staten Island",0010SI,1
+216,3,1,Beverage,"Fanta 33cl",2023-01-06,12:49:23,"147 Arizona Plaza",,"Staten Island",0010SI,1
+217,6,2,Beverage,"Diet Coke 1.5l",2023-01-06,12:49:23,"147 Arizona Plaza",,"Staten Island",0010SI,1
+218,2,10,Beverage,"Sparkling Water 33cl",2023-01-06,22:33:58,"147 Arizona Plaza",,"Staten Island",0010SI,1
+219,6,7,Dessert,"Strawberry Ice Cream",2023-01-06,22:33:58,"147 Arizona Plaza",,"Staten Island",0010SI,1
+220,5,3,Dessert,"Chocolate Brownie",2023-01-06,22:33:58,"147 Arizona Plaza",,"Staten Island",0010SI,1
+221,2,5,Beverage,"Sparkling Water 33cl",2023-01-06,12:46:05,"147 Arizona Plaza",,"Staten Island",0010SI,1
+222,6,5,Dessert,"Strawberry Ice Cream",2023-01-06,12:46:05,"147 Arizona Plaza",,"Staten Island",0010SI,1
+223,6,1,Dessert,"Chocolate Ice Cream",2023-01-06,12:46:05,"147 Arizona Plaza",,"Staten Island",0010SI,1
+224,6,5,Dessert,"Chocolate Ice Cream",2023-01-07,12:46:05,"147 Arizona Plaza",,"Staten Island",0010SI,1
+225,16,3,Pizza,"Pizza Diavola Regular",2023-01-07,12:46:05,"147 Arizona Plaza",,"Staten Island",0010SI,1
+226,3,5,Beverage,"Diet Coke 33cl",2023-01-07,13:27:14,"147 Arizona Plaza",,"Staten Island",0010SI,0
+227,17,4,Pizza,"Pizza Hawaiian Large",2023-01-07,13:27:14,"147 Arizona Plaza",,"Staten Island",0010SI,0
+228,16,2,Pizza,"Pizza Napolitana Regular",2023-01-07,13:27:14,"147 Arizona Plaza",,"Staten Island",0010SI,0
+229,3,3,Beverage,"Diet Coke 33cl",2023-01-07,21:16:30,"147 Arizona Plaza",,"Staten Island",0010SI,1
+230,18,1,Pizza,"Pizza Parmigiana Large",2023-01-07,18:38:28,"3168 Clemons Road",,Queens,0007Q,1
+231,17,8,Pizza,"Pizza Hawaiian Large",2023-01-07,18:38:28,"3168 Clemons Road",,Queens,0007Q,1
+232,15,9,Pizza,"Pizza Hawaiian Regular",2023-01-07,21:41:42,"3168 Clemons Road",,Queens,0007Q,0
+233,5,7,Side,Breadsticks,2023-01-07,21:41:42,"3168 Clemons Road",,Queens,0007Q,0
+234,3,6,Beverage,"Fanta 33cl",2023-01-07,21:41:42,"3168 Clemons Road",,Queens,0007Q,0
+235,6,7,Beverage,"7 Up 1.5l",2023-01-07,22:01:19,"3168 Clemons Road",,Queens,0007Q,1
+236,17,3,Pizza,"Pizza Seafood Regular",2023-01-07,22:01:19,"3168 Clemons Road",,Queens,0007Q,1
+237,6,6,Beverage,"Coca Cola 1.5l",2023-01-07,22:01:19,"3168 Clemons Road",,Queens,0007Q,1
+238,6,4,Dessert,"Vanilla Ice Cream",2023-01-07,19:44:05,"3168 Clemons Road",,Queens,0007Q,1
+239,6,10,Dessert,"Vanilla Ice Cream",2023-01-07,19:44:05,"3168 Clemons Road",,Queens,0007Q,1
+240,3,3,Beverage,"Coca Cola 33cl",2023-01-07,18:36:26,"3168 Clemons Road",,Queens,0007Q,0
+241,7,4,Dessert,"Banoffee Pie",2023-01-07,18:36:26,"3168 Clemons Road",,Queens,0007Q,0
+242,6,5,Side,"Garlic Bread",2023-01-07,13:50:24,"3168 Clemons Road",,Queens,0007Q,1
+243,6,9,Dessert,"Vanilla Ice Cream",2023-01-07,13:50:24,"3168 Clemons Road",,Queens,0007Q,1
+244,6,7,Side,"Garlic Bread",2023-01-07,13:50:24,"3168 Clemons Road",,Queens,0007Q,1
+245,16,8,Pizza,"Pizza Diavola Regular",2023-01-07,13:50:24,"3168 Clemons Road",,Queens,0007Q,1
+246,5,5,Dessert,"Fruit salad",2023-01-07,13:50:24,"3168 Clemons Road",,Queens,0007Q,1
+247,16,1,Pizza,"Pizza Quattro Formaggi Regular",2023-01-07,13:50:24,"3168 Clemons Road",,Queens,0007Q,1
+248,17,5,Pizza,"Pizza Seafood Regular",2023-01-07,13:50:24,"3168 Clemons Road",,Queens,0007Q,1
+249,17,3,Pizza,"Pizza Hawaiian Large",2023-01-07,19:04:31,"3168 Clemons Road",,Queens,0007Q,1
+250,5,1,Side,Breadsticks,2023-01-07,19:04:31,"3168 Clemons Road",,Queens,0007Q,1
+251,18,3,Pizza,"Pizza Parmigiana Large",2023-01-07,22:26:14,"3168 Clemons Road",,Queens,0007Q,0
+252,6,10,Beverage,"Fanta 1.5l",2023-01-07,22:26:14,"3168 Clemons Road",,Queens,0007Q,0
+253,7,4,Dessert,"Banoffee Pie",2023-01-07,18:55:48,"3168 Clemons Road",,Queens,0007Q,1
+254,18,1,Pizza,"Pizza Napolitana Large",2023-01-07,18:55:48,"3168 Clemons Road",,Queens,0007Q,1
+255,6,2,Side,"Garlic Bread",2023-01-07,18:55:48,"3168 Clemons Road",,Queens,0007Q,1
+256,17,7,Pizza,"Pizza Hawaiian Large",2023-01-07,20:44:07,"3168 Clemons Road",,Queens,0007Q,1
+257,12,2,Pizza,"Pizza Margherita Regular",2023-01-07,20:44:07,"3168 Clemons Road",,Queens,0007Q,1
+258,6,1,Side,"Garlic Bread",2023-01-07,20:44:07,"3168 Clemons Road",,Queens,0007Q,1
+259,6,3,Beverage,"Coca Cola 1.5l",2023-01-07,19:06:57,"3168 Clemons Road",,Queens,0007Q,0
+260,6,4,Dessert,"Chocolate Ice Cream",2023-01-07,19:06:57,"3168 Clemons Road",,Queens,0007Q,0
+261,18,7,Pizza,"Pizza Napolitana Large",2023-01-07,19:06:57,"3168 Clemons Road",,Queens,0007Q,0
+262,12,4,Pizza,"Pizza Margherita Regular",2023-01-07,19:18:43,"3168 Clemons Road",,Queens,0007Q,0
+263,12,7,Pizza,"Pizza Margherita Regular",2023-01-07,19:18:43,"3168 Clemons Road",,Queens,0007Q,0
+264,17,4,Pizza,"Pizza Pepperoni Large",2023-01-07,20:47:59,"3168 Clemons Road",,Queens,0007Q,1
+265,14,10,Pizza,"Pizza Margherita Large",2023-01-07,20:47:59,"3168 Clemons Road",,Queens,0007Q,1
+266,16,4,Pizza,"Pizza Napolitana Regular",2023-01-07,22:01:09,"3168 Clemons Road",,Queens,0007Q,1
+267,6,4,Dessert,"Strawberry Ice Cream",2023-01-07,13:11:03,"9338 Rutledge Drive",,Bronx,0004B,0
+268,6,10,Beverage,"Diet Coke 1.5l",2023-01-07,13:11:03,"9338 Rutledge Drive",,Bronx,0004B,0
+269,18,3,Pizza,"Pizza Napolitana Large",2023-01-07,13:11:03,"9338 Rutledge Drive",,Bronx,0004B,0
+270,3,6,Beverage,"Fanta 33cl",2023-01-07,13:11:03,"9338 Rutledge Drive",,Bronx,0004B,0
+271,6,6,Dessert,"Chocolate Ice Cream",2023-01-07,19:33:58,"9338 Rutledge Drive",,Bronx,0004B,1
+272,5,8,Side,Breadsticks,2023-01-07,13:59:22,"14213 Luster Hill",,Manhattan,0001M,1
+273,3,4,Beverage,"Fanta 33cl",2023-01-07,20:27:22,"7 Gale Pass",,Manhattan,0001M,0
+274,4,5,Beverage,"Sparkling Water 1.5l",2023-01-07,20:27:22,"7 Gale Pass",,Manhattan,0001M,0
+275,6,2,Side,"Garlic Bread",2023-01-07,22:12:52,"7 Gale Pass",,Manhattan,0001M,1
+276,16,7,Pizza,"Pizza Diavola Regular",2023-01-07,22:12:52,"7 Gale Pass",,Manhattan,0001M,1
+277,15,3,Pizza,"Pizza Parmigiana Regular",2023-01-07,22:12:52,"7 Gale Pass",,Manhattan,0001M,1
+278,17,2,Pizza,"Pizza Hawaiian Large",2023-01-07,22:12:52,"7 Gale Pass",,Manhattan,0001M,1
+279,20,2,Pizza,"Pizza Seafood Large",2023-01-07,22:12:52,"7 Gale Pass",,Manhattan,0001M,1
+280,7,9,Side,"Chicken Wings",2023-01-07,13:31:58,"7 Gale Pass",,Manhattan,0001M,1
+281,6,4,Dessert,"Vanilla Ice Cream",2023-01-07,13:31:58,"7 Gale Pass",,Manhattan,0001M,1
+282,18,7,Pizza,"Pizza Napolitana Large",2023-01-07,11:47:47,"7 Gale Pass",,Manhattan,0001M,0
+283,3,6,Beverage,"Coca Cola 33cl",2023-01-07,11:47:47,"7 Gale Pass",,Manhattan,0001M,0
+284,3,3,Beverage,"7 Up 33cl",2023-01-07,11:47:47,"7 Gale Pass",,Manhattan,0001M,0
+285,5,1,Side,Breadsticks,2023-01-07,18:49:59,"7 Gale Pass",,Manhattan,0001M,1
+286,19,2,Pizza,"Pizza Quattro Formaggi Large",2023-01-07,18:49:59,"7 Gale Pass",,Manhattan,0001M,1
+287,19,9,Pizza,"Pizza Diavola Large",2023-01-08,21:31:14,"7 Gale Pass",,Manhattan,0001M,1
+288,18,9,Pizza,"Pizza Parmigiana Large",2023-01-08,21:31:14,"7 Gale Pass",,Manhattan,0001M,1
+289,17,3,Pizza,"Pizza Seafood Regular",2023-01-08,11:44:24,"7 Gale Pass",,Manhattan,0001M,0
+290,17,3,Pizza,"Pizza Pepperoni Large",2023-01-08,19:17:02,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+291,6,2,Beverage,"Fanta 1.5l",2023-01-08,18:38:36,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+292,16,4,Pizza,"Pizza Napolitana Regular",2023-01-08,18:38:36,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+293,5,4,Side,Breadsticks,2023-01-08,18:38:36,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+294,7,2,Side,"Caesar Salad",2023-01-08,18:38:36,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+295,6,4,Beverage,"Fanta 1.5l",2023-01-08,18:38:36,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+296,16,9,Pizza,"Pizza Diavola Regular",2023-01-08,12:08:13,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+297,16,3,Pizza,"Pizza Napolitana Regular",2023-01-08,12:08:13,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+298,19,1,Pizza,"Pizza Quattro Formaggi Large",2023-01-08,21:57:08,"5170 Armistice Hill","Room 589","Staten Island",0010SI,1
+299,3,6,Beverage,"Coca Cola 33cl",2023-01-08,11:21:02,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+300,6,3,Beverage,"7 Up 1.5l",2023-01-08,11:21:02,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+301,16,6,Pizza,"Pizza Napolitana Regular",2023-01-08,11:21:02,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+302,3,5,Beverage,"Coca Cola 33cl",2023-01-08,11:03:50,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+303,3,10,Beverage,"Fanta 33cl",2023-01-08,11:03:50,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+304,2,3,Beverage,"Sparkling Water 33cl",2023-01-08,11:37:36,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+305,16,2,Pizza,"Pizza Napolitana Regular",2023-01-08,11:37:36,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+306,5,7,Dessert,"Chocolate Brownie",2023-01-08,11:37:36,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+307,17,10,Pizza,"Pizza Pepperoni Large",2023-01-08,21:09:22,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+308,20,9,Pizza,"Pizza Seafood Large",2023-01-08,20:02:02,"98148 Brown Pass",,Bronx,0004B,1
+309,18,5,Pizza,"Pizza Parmigiana Large",2023-01-08,13:49:34,"3951 Hintze Point",,Queens,0007Q,1
+310,14,4,Pizza,"Pizza Margherita Large",2023-01-08,13:49:34,"3951 Hintze Point",,Queens,0007Q,1
+311,6,3,Dessert,"Chocolate Ice Cream",2023-01-08,13:49:34,"3951 Hintze Point",,Queens,0007Q,1
+312,6,8,Beverage,"Diet Coke 1.5l",2023-01-08,20:30:51,"3951 Hintze Point",,Queens,0007Q,0
+313,5,7,Dessert,"Chocolate Brownie",2023-01-08,20:30:51,"3951 Hintze Point",,Queens,0007Q,0
+314,16,10,Pizza,"Pizza Diavola Regular",2023-01-08,20:30:51,"3951 Hintze Point",,Queens,0007Q,0
+315,3,3,Beverage,"Fanta 33cl",2023-01-08,20:30:51,"3951 Hintze Point",,Queens,0007Q,0
+316,6,10,Beverage,"7 Up 1.5l",2023-01-08,11:36:49,"3951 Hintze Point",,Queens,0007Q,1
+317,7,8,Side,"Caesar Salad",2023-01-08,11:36:49,"3951 Hintze Point",,Queens,0007Q,1
+318,7,7,Side,"Chicken Wings",2023-01-08,11:36:49,"3951 Hintze Point",,Queens,0007Q,1
+319,12,10,Pizza,"Pizza Margherita Regular",2023-01-08,11:36:49,"3951 Hintze Point",,Queens,0007Q,1
+320,18,3,Pizza,"Pizza Parmigiana Large",2023-01-08,11:36:49,"3951 Hintze Point",,Queens,0007Q,1
+321,7,5,Dessert,"Banoffee Pie",2023-01-08,13:37:32,"3951 Hintze Point",,Queens,0007Q,1
+322,2,2,Beverage,"Sparkling Water 33cl",2023-01-08,12:56:25,"00 La Follette Place",,"Staten Island",0010SI,0
+323,14,3,Pizza,"Pizza Margherita Large",2023-01-08,12:56:25,"00 La Follette Place",,"Staten Island",0010SI,0
+324,3,1,Beverage,"Fanta 33cl",2023-01-08,12:56:25,"00 La Follette Place",,"Staten Island",0010SI,0
+325,15,6,Pizza,"Pizza Parmigiana Regular",2023-01-08,10:52:29,"00 La Follette Place",,"Staten Island",0010SI,0
+326,7,7,Side,"Caesar Salad",2023-01-08,10:52:29,"00 La Follette Place",,"Staten Island",0010SI,0
+327,20,10,Pizza,"Pizza Seafood Large",2023-01-08,13:05:40,"00 La Follette Place",,"Staten Island",0010SI,1
+328,7,9,Dessert,"Banoffee Pie",2023-01-08,13:05:40,"00 La Follette Place",,"Staten Island",0010SI,1
+329,3,7,Beverage,"Coca Cola 33cl",2023-01-08,13:05:40,"00 La Follette Place",,"Staten Island",0010SI,1
+330,16,1,Pizza,"Pizza Napolitana Regular",2023-01-08,13:05:40,"00 La Follette Place",,"Staten Island",0010SI,1
+331,3,4,Beverage,"Diet Coke 33cl",2023-01-08,13:05:40,"00 La Follette Place",,"Staten Island",0010SI,1
+332,7,9,Side,"Caesar Salad",2023-01-08,18:38:35,"00 La Follette Place",,"Staten Island",0010SI,1
+333,5,1,Dessert,"Chocolate Brownie",2023-01-08,20:30:11,"8 Dahle Hill",,Manhattan,0001M,0
+334,17,1,Pizza,"Pizza Pepperoni Large",2023-01-08,20:30:11,"8 Dahle Hill",,Manhattan,0001M,0
+335,6,2,Dessert,"Vanilla Ice Cream",2023-01-08,20:30:11,"8 Dahle Hill",,Manhattan,0001M,0
+336,16,10,Pizza,"Pizza Quattro Formaggi Regular",2023-01-08,20:47:35,"8 Dahle Hill",,Manhattan,0001M,1
+337,15,6,Pizza,"Pizza Hawaiian Regular",2023-01-08,20:47:35,"8 Dahle Hill",,Manhattan,0001M,1
+338,3,1,Beverage,"7 Up 33cl",2023-01-08,20:47:35,"8 Dahle Hill",,Manhattan,0001M,1
+339,15,5,Pizza,"Pizza Hawaiian Regular",2023-01-08,20:40:40,"8 Dahle Hill",,Manhattan,0001M,1
+340,5,2,Side,Breadsticks,2023-01-08,20:40:40,"8 Dahle Hill",,Manhattan,0001M,1
+341,15,5,Pizza,"Pizza Parmigiana Regular",2023-01-08,20:40:40,"8 Dahle Hill",,Manhattan,0001M,1
+342,18,9,Pizza,"Pizza Parmigiana Large",2023-01-08,12:27:33,"8 Dahle Hill",,Manhattan,0001M,0
+343,5,2,Side,Breadsticks,2023-01-08,12:27:33,"8 Dahle Hill",,Manhattan,0001M,0
+344,20,3,Pizza,"Pizza Seafood Large",2023-01-08,19:27:44,"8 Dahle Hill",,Manhattan,0001M,1
+345,18,2,Pizza,"Pizza Napolitana Large",2023-01-08,19:27:44,"8 Dahle Hill",,Manhattan,0001M,1
+346,5,7,Dessert,"Fruit salad",2023-01-08,19:27:44,"8 Dahle Hill",,Manhattan,0001M,1
+347,17,4,Pizza,"Pizza Hawaiian Large",2023-01-08,12:03:33,"8 Dahle Hill",,Manhattan,0001M,1
+348,2,10,Beverage,"Sparkling Water 33cl",2023-01-08,12:03:33,"8 Dahle Hill",,Manhattan,0001M,1
+349,6,4,Dessert,"Strawberry Ice Cream",2023-01-08,12:03:33,"8 Dahle Hill",,Manhattan,0001M,1
+350,6,5,Beverage,"Fanta 1.5l",2023-01-08,20:03:14,"8 Dahle Hill",,Manhattan,0001M,0
+351,6,1,Beverage,"7 Up 1.5l",2023-01-08,20:03:14,"8 Dahle Hill",,Manhattan,0001M,0
+352,6,7,Beverage,"7 Up 1.5l",2023-01-08,20:03:14,"8 Dahle Hill",,Manhattan,0001M,0
+353,6,4,Dessert,"Pistachio Ice Crearn",2023-01-08,21:28:07,"8 Dahle Hill",,Manhattan,0001M,0
+354,6,7,Beverage,"Diet Coke 1.5l",2023-01-08,21:28:07,"8 Dahle Hill",,Manhattan,0001M,0
+355,6,7,Beverage,"7 Up 1.5l",2023-01-08,21:28:07,"8 Dahle Hill",,Manhattan,0001M,0
+356,14,5,Pizza,"Pizza Margherita Large",2023-01-08,20:47:04,"8 Dahle Hill",,Manhattan,0001M,1
+357,6,6,Beverage,"Fanta 1.5l",2023-01-08,22:29:13,"4982 7th Hill","Suite 70",Bronx,0004B,1
+358,14,1,Pizza,"Pizza Margherita Large",2023-01-08,22:29:13,"4982 7th Hill","Suite 70",Bronx,0004B,1
+359,6,2,Beverage,"Fanta 1.5l",2023-01-08,18:43:51,"4982 7th Hill","Suite 70",Bronx,0004B,0
+360,16,4,Pizza,"Pizza Quattro Formaggi Regular",2023-01-08,11:09:17,"96245 7th Parkway",,Manhattan,0001M,1
+361,7,7,Side,"Chicken Wings",2023-01-08,11:09:17,"96245 7th Parkway",,Manhattan,0001M,1
+362,6,4,Beverage,"Fanta 1.5l",2023-01-09,13:54:59,"96245 7th Parkway",,Manhattan,0001M,1
+363,3,2,Beverage,"7 Up 33cl",2023-01-09,18:57:22,"14213 Luster Hill",,Manhattan,0001M,0
+364,6,5,Beverage,"Fanta 1.5l",2023-01-09,18:57:22,"14213 Luster Hill",,Manhattan,0001M,0
+365,5,2,Dessert,"Chocolate Brownie",2023-01-09,18:57:22,"14213 Luster Hill",,Manhattan,0001M,0
+366,5,8,Dessert,"Fruit salad",2023-01-09,12:23:36,"14213 Luster Hill",,Manhattan,0001M,1
+367,7,4,Side,"Caesar Salad",2023-01-09,19:25:50,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+368,2,9,Beverage,"Sparkling Water 33cl",2023-01-09,19:25:50,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+369,3,2,Beverage,"Coca Cola 33cl",2023-01-09,19:25:50,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+370,5,2,Dessert,"Fruit salad",2023-01-09,19:25:50,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+371,3,7,Beverage,"Fanta 33cl",2023-01-09,19:25:50,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,1
+372,6,2,Beverage,"7 Up 1.5l",2023-01-09,11:21:08,"0970 Valley Edge Circle","17th Floor",Queens,0007Q,0
+373,7,7,Dessert,"Banoffee Pie",2023-01-09,11:33:14,"6 Bluejay Crossing",,Manhattan,0001M,0
+374,4,7,Beverage,"Sparkling Water 1.5l",2023-01-09,11:33:14,"6 Bluejay Crossing",,Manhattan,0001M,0
+375,16,5,Pizza,"Pizza Quattro Formaggi Regular",2023-01-09,20:41:29,"6 Bluejay Crossing",,Manhattan,0001M,1
+376,3,2,Beverage,"Fanta 33cl",2023-01-09,20:41:29,"6 Bluejay Crossing",,Manhattan,0001M,1
+377,15,8,Pizza,"Pizza Hawaiian Regular",2023-01-09,20:41:29,"6 Bluejay Crossing",,Manhattan,0001M,1
+378,17,2,Pizza,"Pizza Seafood Regular",2023-01-09,20:41:29,"6 Bluejay Crossing",,Manhattan,0001M,1
+379,18,9,Pizza,"Pizza Napolitana Large",2023-01-09,21:23:45,"6 Bluejay Crossing",,Manhattan,0001M,0
+380,14,1,Pizza,"Pizza Margherita Large",2023-01-09,21:23:45,"6 Bluejay Crossing",,Manhattan,0001M,0
+381,19,3,Pizza,"Pizza Quattro Formaggi Large",2023-01-09,21:23:45,"6 Bluejay Crossing",,Manhattan,0001M,0
+382,6,9,Beverage,"Coca Cola 1.5l",2023-01-09,13:30:52,"6 Bluejay Crossing",,Manhattan,0001M,1
+383,18,6,Pizza,"Pizza Napolitana Large",2023-01-09,13:30:52,"6 Bluejay Crossing",,Manhattan,0001M,1
+384,6,2,Dessert,"Strawberry Ice Cream",2023-01-09,13:30:52,"6 Bluejay Crossing",,Manhattan,0001M,1
+385,17,4,Pizza,"Pizza Hawaiian Large",2023-01-09,13:30:52,"6 Bluejay Crossing",,Manhattan,0001M,1
+386,7,9,Dessert,"Banoffee Pie",2023-01-09,10:54:16,"6 Bluejay Crossing",,Manhattan,0001M,1
+387,6,6,Beverage,"Coca Cola 1.5l",2023-01-09,10:54:16,"6 Bluejay Crossing",,Manhattan,0001M,1
+388,19,1,Pizza,"Pizza Quattro Formaggi Large",2023-01-09,10:54:16,"6 Bluejay Crossing",,Manhattan,0001M,1
+389,16,4,Pizza,"Pizza Diavola Regular",2023-01-09,11:24:49,"6 Bluejay Crossing",,Manhattan,0001M,0
+390,17,4,Pizza,"Pizza Seafood Regular",2023-01-09,11:24:49,"6 Bluejay Crossing",,Manhattan,0001M,0
+391,12,6,Pizza,"Pizza Margherita Regular",2023-01-09,11:24:49,"6 Bluejay Crossing",,Manhattan,0001M,0
+392,14,6,Pizza,"Pizza Margherita Large",2023-01-09,11:24:49,"6 Bluejay Crossing",,Manhattan,0001M,0
+393,19,9,Pizza,"Pizza Quattro Formaggi Large",2023-01-09,11:09:49,"6 Bluejay Crossing",,Manhattan,0001M,1
+394,20,5,Pizza,"Pizza Seafood Large",2023-01-09,21:57:32,"93 Sugar Terrace","Suite 2",Queens,0007Q,1
+395,7,7,Side,"Chicken Wings",2023-01-09,21:57:32,"93 Sugar Terrace","Suite 2",Queens,0007Q,1
+396,6,6,Side,"Garlic Bread",2023-01-09,21:57:32,"93 Sugar Terrace","Suite 2",Queens,0007Q,1
+397,3,7,Beverage,"Fanta 33cl",2023-01-09,21:25:42,"93 Sugar Terrace","Suite 2",Queens,0007Q,0
+398,6,10,Beverage,"7 Up 1.5l",2023-01-09,21:25:42,"93 Sugar Terrace","Suite 2",Queens,0007Q,0
+399,19,4,Pizza,"Pizza Diavola Large",2023-01-09,21:25:42,"93 Sugar Terrace","Suite 2",Queens,0007Q,0
+400,17,10,Pizza,"Pizza Hawaiian Large",2023-01-09,21:25:42,"93 Sugar Terrace","Suite 2",Queens,0007Q,0
+401,6,10,Beverage,"Coca Cola 1.5l",2023-01-09,21:42:22,"93 Sugar Terrace","Suite 2",Queens,0007Q,1
+402,15,1,Pizza,"Pizza Pepperoni Regular",2023-01-09,11:40:21,"59 Stoughton Plaza",,Queens,0007Q,1
+403,17,5,Pizza,"Pizza Seafood Regular",2023-01-09,11:40:21,"59 Stoughton Plaza",,Queens,0007Q,1
+404,16,10,Pizza,"Pizza Napolitana Regular",2023-01-09,11:40:21,"59 Stoughton Plaza",,Queens,0007Q,1
+405,19,5,Pizza,"Pizza Diavola Large",2023-01-09,11:40:21,"59 Stoughton Plaza",,Queens,0007Q,1
+406,6,6,Beverage,"Fanta 1.5l",2023-01-09,12:32:30,"59 Stoughton Plaza",,Queens,0007Q,0
+407,5,3,Side,Breadsticks,2023-01-09,12:32:30,"59 Stoughton Plaza",,Queens,0007Q,0
+408,17,2,Pizza,"Pizza Hawaiian Large",2023-01-09,11:20:08,"59 Stoughton Plaza",,Queens,0007Q,1
+409,16,8,Pizza,"Pizza Napolitana Regular",2023-01-09,22:24:54,"03250 Miller Park",,Queens,0007Q,1
+410,5,6,Side,Breadsticks,2023-01-09,22:24:54,"03250 Miller Park",,Queens,0007Q,1
+411,2,1,Beverage,"Sparkling Water 33cl",2023-01-09,11:30:58,"03250 Miller Park",,Queens,0007Q,0
+412,3,5,Beverage,"Fanta 33cl",2023-01-09,11:30:58,"03250 Miller Park",,Queens,0007Q,0
+413,12,10,Pizza,"Pizza Margherita Regular",2023-01-09,10:45:57,"03250 Miller Park",,Queens,0007Q,0
+414,14,3,Pizza,"Pizza Margherita Large",2023-01-09,10:45:57,"03250 Miller Park",,Queens,0007Q,0
+415,3,5,Beverage,"7 Up 33cl",2023-01-09,10:45:57,"03250 Miller Park",,Queens,0007Q,0
+416,3,6,Beverage,"Diet Coke 33cl",2023-01-09,13:25:51,"03250 Miller Park",,Queens,0007Q,0
+417,4,4,Beverage,"Sparkling Water 1.5l",2023-01-09,13:25:51,"03250 Miller Park",,Queens,0007Q,0
+418,6,3,Dessert,"Chocolate Ice Cream",2023-01-09,13:25:51,"03250 Miller Park",,Queens,0007Q,0
+419,18,8,Pizza,"Pizza Napolitana Large",2023-01-09,13:25:51,"03250 Miller Park",,Queens,0007Q,0
+420,16,3,Pizza,"Pizza Napolitana Regular",2023-01-09,13:25:51,"03250 Miller Park",,Queens,0007Q,0
+421,6,4,Side,"Garlic Bread",2023-01-09,13:25:51,"03250 Miller Park",,Queens,0007Q,0
+422,6,2,Dessert,"Strawberry Ice Cream",2023-01-09,11:47:12,"03250 Miller Park",,Queens,0007Q,1
+423,16,1,Pizza,"Pizza Napolitana Regular",2023-01-09,11:47:12,"03250 Miller Park",,Queens,0007Q,1
+424,7,8,Side,"Chicken Wings",2023-01-09,11:47:12,"03250 Miller Park",,Queens,0007Q,1
+425,7,2,Dessert,"Banoffee Pie",2023-01-09,11:47:12,"03250 Miller Park",,Queens,0007Q,1
+426,16,3,Pizza,"Pizza Quattro Formaggi Regular",2023-01-09,13:34:03,"03250 Miller Park",,Queens,0007Q,1
+427,18,2,Pizza,"Pizza Napolitana Large",2023-01-09,13:34:03,"03250 Miller Park",,Queens,0007Q,1
+428,14,10,Pizza,"Pizza Margherita Large",2023-01-09,22:15:12,"03250 Miller Park",,Queens,0007Q,0
+429,6,1,Side,"Garlic Bread",2023-01-09,20:20:02,"3676 Southridge Avenue",,Queens,0007Q,1
+430,16,5,Pizza,"Pizza Diavola Regular",2023-01-09,11:40:30,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+431,17,1,Pizza,"Pizza Hawaiian Large",2023-01-09,11:40:30,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+432,16,6,Pizza,"Pizza Diavola Regular",2023-01-09,11:33:14,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+433,6,4,Dessert,"Chocolate Ice Cream",2023-01-09,11:33:14,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+434,5,3,Dessert,"Chocolate Brownie",2023-01-09,11:33:14,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+435,16,10,Pizza,"Pizza Quattro Formaggi Regular",2023-01-09,11:33:14,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+436,5,9,Side,Breadsticks,2023-01-09,20:04:40,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+437,15,9,Pizza,"Pizza Parmigiana Regular",2023-01-09,20:04:40,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+438,14,4,Pizza,"Pizza Margherita Large",2023-01-09,20:04:40,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+439,7,5,Side,"Caesar Salad",2023-01-09,20:04:40,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+440,20,5,Pizza,"Pizza Seafood Large",2023-01-09,20:04:40,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+441,6,8,Beverage,"7 Up 1.5l",2023-01-09,10:34:28,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+442,18,7,Pizza,"Pizza Parmigiana Large",2023-01-09,10:34:28,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+443,19,9,Pizza,"Pizza Diavola Large",2023-01-10,22:39:20,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+444,17,4,Pizza,"Pizza Seafood Regular",2023-01-10,22:39:20,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+445,6,9,Beverage,"Diet Coke 1.5l",2023-01-10,11:27:25,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+446,3,1,Beverage,"7 Up 33cl",2023-01-10,11:27:25,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+447,6,1,Beverage,"Coca Cola 1.5l",2023-01-10,11:27:25,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+448,18,4,Pizza,"Pizza Napolitana Large",2023-01-10,12:51:23,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+449,15,8,Pizza,"Pizza Hawaiian Regular",2023-01-10,12:51:23,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+450,3,7,Beverage,"Diet Coke 33cl",2023-01-10,12:51:23,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+451,3,2,Beverage,"Coca Cola 33cl",2023-01-10,12:51:23,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+452,3,9,Beverage,"7 Up 33cl",2023-01-10,19:43:53,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+453,6,7,Beverage,"Diet Coke 1.5l",2023-01-10,19:43:53,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+454,6,2,Dessert,"Vanilla Ice Cream",2023-01-10,19:43:53,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+455,4,10,Beverage,"Sparkling Water 1.5l",2023-01-10,13:33:42,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+456,6,7,Beverage,"Coca Cola 1.5l",2023-01-10,13:33:42,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+457,3,8,Beverage,"Diet Coke 33cl",2023-01-10,13:33:42,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+458,5,3,Side,Breadsticks,2023-01-10,13:33:42,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+459,20,6,Pizza,"Pizza Seafood Large",2023-01-10,11:30:13,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+460,19,5,Pizza,"Pizza Diavola Large",2023-01-10,11:30:13,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+461,15,6,Pizza,"Pizza Hawaiian Regular",2023-01-10,12:09:09,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+462,5,3,Dessert,"Fruit salad",2023-01-10,12:09:09,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+463,14,9,Pizza,"Pizza Margherita Large",2023-01-10,12:09:09,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+464,6,1,Dessert,"Pistachio Ice Crearn",2023-01-10,12:09:09,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+465,7,5,Side,"Chicken Wings",2023-01-10,21:19:05,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+466,6,5,Beverage,"7 Up 1.5l",2023-01-10,21:19:05,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+467,7,1,Dessert,"Banoffee Pie",2023-01-10,21:57:39,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+468,6,4,Side,"Garlic Bread",2023-01-10,21:57:39,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+469,4,6,Beverage,"Sparkling Water 1.5l",2023-01-10,21:57:39,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+470,18,1,Pizza,"Pizza Napolitana Large",2023-01-10,21:57:39,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+471,3,4,Beverage,"Coca Cola 33cl",2023-01-10,20:46:07,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+472,5,2,Side,Breadsticks,2023-01-10,20:46:07,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+473,2,7,Beverage,"Sparkling Water 33cl",2023-01-10,19:11:34,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+474,15,9,Pizza,"Pizza Pepperoni Regular",2023-01-10,19:11:34,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+475,7,3,Side,"Caesar Salad",2023-01-10,19:11:34,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+476,14,7,Pizza,"Pizza Margherita Large",2023-01-10,20:18:12,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+477,6,7,Dessert,"Strawberry Ice Cream",2023-01-10,20:18:12,"9270 Sunnyside Crossing",,Brooklyn,0005B,0
+478,6,8,Side,"Garlic Bread",2023-01-10,20:39:27,"9270 Sunnyside Crossing",,Brooklyn,0005B,1
+479,3,8,Beverage,"Fanta 33cl",2023-01-10,19:18:32,"1 Almo Road",,Brooklyn,0005B,0
+480,3,6,Beverage,"Coca Cola 33cl",2023-01-10,19:18:32,"1 Almo Road",,Brooklyn,0005B,0
+481,3,4,Beverage,"7 Up 33cl",2023-01-10,19:18:32,"1 Almo Road",,Brooklyn,0005B,0
+482,17,7,Pizza,"Pizza Pepperoni Large",2023-01-10,19:18:32,"1 Almo Road",,Brooklyn,0005B,0
+483,16,8,Pizza,"Pizza Diavola Regular",2023-01-10,11:31:13,"1 Almo Road",,Brooklyn,0005B,0
+484,2,9,Beverage,"Sparkling Water 33cl",2023-01-10,22:37:13,"431 Norway Maple Pass",,"Staten Island",0010SI,1
+485,6,3,Beverage,"Coca Cola 1.5l",2023-01-10,22:37:13,"431 Norway Maple Pass",,"Staten Island",0010SI,1
+486,18,10,Pizza,"Pizza Parmigiana Large",2023-01-10,11:17:01,"431 Norway Maple Pass",,"Staten Island",0010SI,1
+487,5,10,Side,Breadsticks,2023-01-10,11:17:01,"431 Norway Maple Pass",,"Staten Island",0010SI,1
+488,7,4,Dessert,"Banoffee Pie",2023-01-10,11:11:25,"431 Norway Maple Pass",,"Staten Island",0010SI,0
+489,6,6,Dessert,"Strawberry Ice Cream",2023-01-10,11:11:25,"431 Norway Maple Pass",,"Staten Island",0010SI,0
+490,6,7,Beverage,"Coca Cola 1.5l",2023-01-10,11:11:25,"431 Norway Maple Pass",,"Staten Island",0010SI,0
+491,3,5,Beverage,"Fanta 33cl",2023-01-10,11:11:25,"431 Norway Maple Pass",,"Staten Island",0010SI,0
+492,17,5,Pizza,"Pizza Seafood Regular",2023-01-10,13:21:02,"431 Norway Maple Pass",,"Staten Island",0010SI,0
+493,7,9,Side,"Chicken Wings",2023-01-10,10:51:30,"98148 Brown Pass",,Bronx,0004B,1
+494,19,3,Pizza,"Pizza Diavola Large",2023-01-10,10:51:30,"98148 Brown Pass",,Bronx,0004B,1
+495,3,2,Beverage,"Fanta 33cl",2023-01-10,20:11:09,"98148 Brown Pass",,Bronx,0004B,1
+496,6,2,Beverage,"Diet Coke 1.5l",2023-01-10,20:49:41,"92953 Elka Way",,"Staten Island",0010SI,0
+497,6,5,Beverage,"Coca Cola 1.5l",2023-01-10,13:28:19,"1837 Dexter Junction",,Bronx,0004B,1
+498,2,6,Beverage,"Sparkling Water 33cl",2023-01-10,13:28:19,"1837 Dexter Junction",,Bronx,0004B,1
+499,6,4,Beverage,"Diet Coke 1.5l",2023-01-10,19:59:55,"1837 Dexter Junction",,Bronx,0004B,1
+500,3,6,Beverage,"Coca Cola 33cl",2023-01-10,18:50:06,"1672 South Center",,Manhattan,0001M,1
+501,17,7,Pizza,"Pizza Hawaiian Large",2023-01-10,13:41:34,"28 Sage Drive",,Bronx,0004B,1
+502,12,7,Pizza,"Pizza Margherita Regular",2023-01-10,13:41:34,"28 Sage Drive",,Bronx,0004B,1
+503,5,4,Dessert,"Chocolate Brownie",2023-01-10,21:04:22,"28 Sage Drive",,Bronx,0004B,0
+504,6,7,Beverage,"Diet Coke 1.5l",2023-01-10,21:04:22,"28 Sage Drive",,Bronx,0004B,0
+505,15,9,Pizza,"Pizza Hawaiian Regular",2023-01-10,22:52:00,"28 Sage Drive",,Bronx,0004B,0
+506,6,3,Dessert,"Vanilla Ice Cream",2023-01-10,22:52:00,"28 Sage Drive",,Bronx,0004B,0
+507,19,3,Pizza,"Pizza Quattro Formaggi Large",2023-01-11,22:52:00,"28 Sage Drive",,Bronx,0004B,0
+508,17,8,Pizza,"Pizza Seafood Regular",2023-01-11,19:21:23,"28 Sage Drive",,Bronx,0004B,1
+509,17,3,Pizza,"Pizza Seafood Regular",2023-01-11,11:31:04,"00 La Follette Place",,"Staten Island",0010SI,1
+510,19,7,Pizza,"Pizza Diavola Large",2023-01-11,11:31:04,"00 La Follette Place",,"Staten Island",0010SI,1
+511,4,4,Beverage,"Sparkling Water 1.5l",2023-01-11,11:31:04,"00 La Follette Place",,"Staten Island",0010SI,1
+512,5,6,Dessert,"Fruit salad",2023-01-11,13:13:54,"00 La Follette Place",,"Staten Island",0010SI,1
+513,15,9,Pizza,"Pizza Pepperoni Regular",2023-01-11,13:13:54,"00 La Follette Place",,"Staten Island",0010SI,1
+514,12,3,Pizza,"Pizza Margherita Regular",2023-01-11,13:13:54,"00 La Follette Place",,"Staten Island",0010SI,1
+515,6,3,Beverage,"7 Up 1.5l",2023-01-11,11:10:43,"00 La Follette Place",,"Staten Island",0010SI,1
+516,17,1,Pizza,"Pizza Seafood Regular",2023-01-11,11:10:43,"00 La Follette Place",,"Staten Island",0010SI,1
+517,6,3,Side,"Garlic Bread",2023-01-11,21:07:02,"00 La Follette Place",,"Staten Island",0010SI,0
+518,3,4,Beverage,"Diet Coke 33cl",2023-01-11,21:58:58,"973 Anthes Point",,Queens,0007Q,1
+519,6,10,Dessert,"Vanilla Ice Cream",2023-01-11,21:58:58,"973 Anthes Point",,Queens,0007Q,1
+520,5,3,Dessert,"Fruit salad",2023-01-11,21:58:58,"973 Anthes Point",,Queens,0007Q,1
+521,5,10,Dessert,"Chocolate Brownie",2023-01-11,21:58:58,"973 Anthes Point",,Queens,0007Q,1
+522,6,7,Dessert,"Pistachio Ice Crearn",2023-01-11,21:58:58,"973 Anthes Point",,Queens,0007Q,1
+523,6,9,Dessert,"Pistachio Ice Crearn",2023-01-11,11:30:34,"973 Anthes Point",,Queens,0007Q,1
+524,3,9,Beverage,"Diet Coke 33cl",2023-01-11,11:30:34,"973 Anthes Point",,Queens,0007Q,1
+525,5,4,Dessert,"Fruit salad",2023-01-11,11:36:34,"973 Anthes Point",,Queens,0007Q,0
+526,6,7,Dessert,"Strawberry Ice Cream",2023-01-11,11:36:34,"973 Anthes Point",,Queens,0007Q,0
+527,17,2,Pizza,"Pizza Seafood Regular",2023-01-11,20:51:47,"973 Anthes Point",,Queens,0007Q,0
+528,3,8,Beverage,"Diet Coke 33cl",2023-01-11,20:51:47,"973 Anthes Point",,Queens,0007Q,0
+529,16,2,Pizza,"Pizza Diavola Regular",2023-01-11,20:51:47,"973 Anthes Point",,Queens,0007Q,0
+530,6,5,Dessert,"Chocolate Ice Cream",2023-01-11,20:51:47,"973 Anthes Point",,Queens,0007Q,0
+531,19,3,Pizza,"Pizza Diavola Large",2023-01-11,21:17:45,"973 Anthes Point",,Queens,0007Q,1
+532,17,7,Pizza,"Pizza Seafood Regular",2023-01-11,21:17:45,"973 Anthes Point",,Queens,0007Q,1
+533,16,4,Pizza,"Pizza Diavola Regular",2023-01-11,21:17:45,"973 Anthes Point",,Queens,0007Q,1
+534,16,1,Pizza,"Pizza Napolitana Regular",2023-01-11,21:17:45,"973 Anthes Point",,Queens,0007Q,1
+535,4,4,Beverage,"Sparkling Water 1.5l",2023-01-11,21:17:45,"973 Anthes Point",,Queens,0007Q,1
+536,16,5,Pizza,"Pizza Napolitana Regular",2023-01-11,21:17:45,"973 Anthes Point",,Queens,0007Q,1
+537,18,6,Pizza,"Pizza Napolitana Large",2023-01-11,21:17:45,"973 Anthes Point",,Queens,0007Q,1
+538,6,1,Dessert,"Chocolate Ice Cream",2023-01-11,11:30:25,"973 Anthes Point",,Queens,0007Q,1
+539,6,2,Dessert,"Vanilla Ice Cream",2023-01-11,19:11:59,"8345 Portage Street",,"Staten Island",0010SI,0
+540,19,1,Pizza,"Pizza Quattro Formaggi Large",2023-01-11,19:11:59,"8345 Portage Street",,"Staten Island",0010SI,0
+541,3,10,Beverage,"Coca Cola 33cl",2023-01-11,20:25:38,"8345 Portage Street",,"Staten Island",0010SI,1
+542,6,3,Beverage,"Diet Coke 1.5l",2023-01-11,20:25:38,"8345 Portage Street",,"Staten Island",0010SI,1
+543,6,7,Dessert,"Chocolate Ice Cream",2023-01-11,20:25:38,"8345 Portage Street",,"Staten Island",0010SI,1
+544,15,8,Pizza,"Pizza Parmigiana Regular",2023-01-11,20:43:59,"8345 Portage Street",,"Staten Island",0010SI,1
+545,3,1,Beverage,"7 Up 33cl",2023-01-11,20:43:59,"8345 Portage Street",,"Staten Island",0010SI,1
+546,5,8,Dessert,"Chocolate Brownie",2023-01-11,13:53:30,"8345 Portage Street",,"Staten Island",0010SI,1
+547,6,7,Beverage,"7 Up 1.5l",2023-01-11,13:53:30,"8345 Portage Street",,"Staten Island",0010SI,1
+548,14,9,Pizza,"Pizza Margherita Large",2023-01-11,20:30:14,"8345 Portage Street",,"Staten Island",0010SI,1
+549,15,3,Pizza,"Pizza Hawaiian Regular",2023-01-11,20:30:14,"8345 Portage Street",,"Staten Island",0010SI,1
+550,7,4,Dessert,"Banoffee Pie",2023-01-11,21:23:03,"8345 Portage Street",,"Staten Island",0010SI,0
+551,7,7,Dessert,"Banoffee Pie",2023-01-11,21:23:03,"8345 Portage Street",,"Staten Island",0010SI,0
+552,6,5,Dessert,"Strawberry Ice Cream",2023-01-11,20:14:45,"8345 Portage Street",,"Staten Island",0010SI,0
+553,6,7,Dessert,"Pistachio Ice Crearn",2023-01-11,20:14:45,"8345 Portage Street",,"Staten Island",0010SI,0
+554,7,1,Side,"Chicken Wings",2023-01-11,18:42:47,"8345 Portage Street",,"Staten Island",0010SI,1
+555,17,5,Pizza,"Pizza Seafood Regular",2023-01-11,18:42:47,"8345 Portage Street",,"Staten Island",0010SI,1
+556,6,3,Beverage,"Fanta 1.5l",2023-01-11,18:42:47,"8345 Portage Street",,"Staten Island",0010SI,1
+557,5,4,Dessert,"Chocolate Brownie",2023-01-11,21:48:45,"8345 Portage Street",,"Staten Island",0010SI,0
+558,12,7,Pizza,"Pizza Margherita Regular",2023-01-11,22:17:32,"67 West Way",,Bronx,0004B,1
+559,15,7,Pizza,"Pizza Pepperoni Regular",2023-01-11,22:17:32,"67 West Way",,Bronx,0004B,1
+560,17,4,Pizza,"Pizza Pepperoni Large",2023-01-11,22:17:32,"67 West Way",,Bronx,0004B,1
+561,6,5,Beverage,"Fanta 1.5l",2023-01-11,18:47:02,"67 West Way",,Bronx,0004B,0
+562,6,8,Dessert,"Vanilla Ice Cream",2023-01-11,19:44:23,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+563,3,7,Beverage,"Fanta 33cl",2023-01-11,19:44:23,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+564,6,2,Beverage,"Diet Coke 1.5l",2023-01-11,19:10:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+565,7,5,Side,"Caesar Salad",2023-01-11,19:10:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+566,16,3,Pizza,"Pizza Quattro Formaggi Regular",2023-01-11,19:10:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+567,2,1,Beverage,"Sparkling Water 33cl",2023-01-11,21:04:06,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+568,6,4,Dessert,"Vanilla Ice Cream",2023-01-11,21:04:06,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+569,6,4,Dessert,"Strawberry Ice Cream",2023-01-11,21:04:06,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+570,16,4,Pizza,"Pizza Diavola Regular",2023-01-12,12:43:12,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+571,15,2,Pizza,"Pizza Hawaiian Regular",2023-01-12,12:43:12,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+572,18,9,Pizza,"Pizza Napolitana Large",2023-01-12,12:16:21,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+573,16,8,Pizza,"Pizza Diavola Regular",2023-01-12,12:16:21,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+574,17,8,Pizza,"Pizza Hawaiian Large",2023-01-12,12:16:21,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+575,15,3,Pizza,"Pizza Pepperoni Regular",2023-01-12,12:16:21,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+576,7,2,Dessert,"Banoffee Pie",2023-01-12,13:41:12,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+577,12,5,Pizza,"Pizza Margherita Regular",2023-01-12,13:41:12,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+578,3,9,Beverage,"Diet Coke 33cl",2023-01-12,13:41:12,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+579,3,1,Beverage,"Fanta 33cl",2023-01-12,18:33:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+580,3,1,Beverage,"7 Up 33cl",2023-01-12,18:33:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+581,5,4,Dessert,"Chocolate Brownie",2023-01-12,18:33:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+582,20,2,Pizza,"Pizza Seafood Large",2023-01-12,18:53:34,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+583,3,7,Beverage,"Coca Cola 33cl",2023-01-12,18:53:34,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+584,6,1,Beverage,"7 Up 1.5l",2023-01-12,18:53:34,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+585,3,3,Beverage,"Diet Coke 33cl",2023-01-12,21:41:13,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+586,7,4,Dessert,"Banoffee Pie",2023-01-12,21:41:13,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+587,6,2,Dessert,"Chocolate Ice Cream",2023-01-12,12:07:18,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+588,3,4,Beverage,"Diet Coke 33cl",2023-01-12,12:07:18,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+589,15,10,Pizza,"Pizza Hawaiian Regular",2023-01-12,12:58:27,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+590,16,9,Pizza,"Pizza Diavola Regular",2023-01-12,12:58:27,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+591,3,5,Beverage,"Fanta 33cl",2023-01-12,12:58:27,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+592,3,1,Beverage,"7 Up 33cl",2023-01-12,12:58:27,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+593,6,8,Dessert,"Vanilla Ice Cream",2023-01-12,22:11:06,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+594,14,4,Pizza,"Pizza Margherita Large",2023-01-12,22:11:06,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+595,6,5,Dessert,"Vanilla Ice Cream",2023-01-12,22:11:06,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+596,19,3,Pizza,"Pizza Quattro Formaggi Large",2023-01-12,22:11:06,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+597,19,2,Pizza,"Pizza Diavola Large",2023-01-12,20:15:22,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+598,6,2,Beverage,"Coca Cola 1.5l",2023-01-12,20:15:22,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+599,6,4,Dessert,"Chocolate Ice Cream",2023-01-12,20:15:22,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+600,6,7,Beverage,"7 Up 1.5l",2023-01-12,12:44:05,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+601,6,2,Dessert,"Chocolate Ice Cream",2023-01-12,12:44:05,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+602,5,4,Side,Breadsticks,2023-01-12,12:44:05,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+603,6,3,Dessert,"Vanilla Ice Cream",2023-01-12,12:44:05,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+604,5,7,Side,Breadsticks,2023-01-12,21:20:32,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+605,6,4,Dessert,"Pistachio Ice Crearn",2023-01-12,21:20:32,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+606,7,7,Side,"Caesar Salad",2023-01-12,21:20:32,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+607,3,5,Beverage,"Diet Coke 33cl",2023-01-12,21:20:32,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+608,6,5,Dessert,"Strawberry Ice Cream",2023-01-12,13:00:10,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+609,15,1,Pizza,"Pizza Hawaiian Regular",2023-01-12,13:00:10,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+610,5,1,Dessert,"Fruit salad",2023-01-12,13:00:10,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+611,16,3,Pizza,"Pizza Quattro Formaggi Regular",2023-01-12,13:00:10,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+612,5,6,Dessert,"Fruit salad",2023-01-12,21:39:07,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+613,5,2,Dessert,"Chocolate Brownie",2023-01-12,21:39:07,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+614,6,2,Dessert,"Strawberry Ice Cream",2023-01-12,21:39:07,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+615,3,8,Beverage,"Coca Cola 33cl",2023-01-12,18:57:49,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+616,2,3,Beverage,"Sparkling Water 33cl",2023-01-12,18:57:49,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+617,6,6,Dessert,"Pistachio Ice Crearn",2023-01-12,11:34:30,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+618,6,5,Beverage,"7 Up 1.5l",2023-01-12,11:34:30,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+619,6,6,Beverage,"Fanta 1.5l",2023-01-12,11:34:30,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+620,3,2,Beverage,"7 Up 33cl",2023-01-12,11:34:30,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+621,2,7,Beverage,"Sparkling Water 33cl",2023-01-12,11:34:30,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+622,16,2,Pizza,"Pizza Napolitana Regular",2023-01-12,20:00:49,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+623,16,6,Pizza,"Pizza Quattro Formaggi Regular",2023-01-12,20:00:49,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,0
+624,4,1,Beverage,"Sparkling Water 1.5l",2023-01-12,20:18:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+625,6,10,Beverage,"Fanta 1.5l",2023-01-12,20:18:40,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+626,6,3,Dessert,"Vanilla Ice Cream",2023-01-12,19:59:20,"13654 Sutherland Plaza","Suite 38",Bronx,0004B,1
+627,7,2,Side,"Caesar Salad",2023-01-12,13:14:22,"72779 Sloan Way","Apt 466",Manhattan,0001M,0
+628,7,1,Side,"Caesar Salad",2023-01-12,12:25:31,"909 Moulton Drive","Apt 897",Bronx,0004B,0
+629,3,6,Beverage,"7 Up 33cl",2023-01-12,12:25:31,"909 Moulton Drive","Apt 897",Bronx,0004B,0
+630,3,3,Beverage,"7 Up 33cl",2023-01-12,12:25:31,"909 Moulton Drive","Apt 897",Bronx,0004B,0
+631,6,8,Beverage,"Fanta 1.5l",2023-01-12,18:37:09,"909 Moulton Drive","Apt 897",Bronx,0004B,1
+632,6,2,Beverage,"7 Up 1.5l",2023-01-12,18:37:09,"909 Moulton Drive","Apt 897",Bronx,0004B,1
+633,15,2,Pizza,"Pizza Parmigiana Regular",2023-01-12,18:37:09,"909 Moulton Drive","Apt 897",Bronx,0004B,1
+634,3,6,Beverage,"Coca Cola 33cl",2023-01-12,18:36:03,"909 Moulton Drive","Apt 897",Bronx,0004B,1
+635,5,5,Dessert,"Fruit salad",2023-01-12,18:36:03,"909 Moulton Drive","Apt 897",Bronx,0004B,1
+636,6,6,Beverage,"7 Up 1.5l",2023-01-12,22:03:26,"909 Moulton Drive","Apt 897",Bronx,0004B,1
+637,2,9,Beverage,"Sparkling Water 33cl",2023-01-12,12:02:56,"42 7th Parkway",,Queens,0007Q,0
+638,4,9,Beverage,"Sparkling Water 1.5l",2023-01-12,12:02:56,"42 7th Parkway",,Queens,0007Q,0
+639,12,6,Pizza,"Pizza Margherita Regular",2023-01-12,12:02:56,"42 7th Parkway",,Queens,0007Q,0
+640,6,10,Side,"Garlic Bread",2023-01-12,22:24:14,"42 7th Parkway",,Queens,0007Q,1
+641,19,1,Pizza,"Pizza Diavola Large",2023-01-12,22:24:14,"42 7th Parkway",,Queens,0007Q,1
+642,15,4,Pizza,"Pizza Hawaiian Regular",2023-01-12,19:46:37,"42 7th Parkway",,Queens,0007Q,1
+643,5,6,Side,Breadsticks,2023-01-13,19:46:37,"42 7th Parkway",,Queens,0007Q,1
+644,6,2,Dessert,"Chocolate Ice Cream",2023-01-13,11:36:04,"42 7th Parkway",,Queens,0007Q,0
+645,3,3,Beverage,"Fanta 33cl",2023-01-13,11:36:04,"42 7th Parkway",,Queens,0007Q,0
+646,6,7,Beverage,"Coca Cola 1.5l",2023-01-13,11:36:04,"42 7th Parkway",,Queens,0007Q,0
+647,15,1,Pizza,"Pizza Pepperoni Regular",2023-01-13,11:36:04,"42 7th Parkway",,Queens,0007Q,0
+648,3,5,Beverage,"Diet Coke 33cl",2023-01-13,11:36:04,"42 7th Parkway",,Queens,0007Q,0
+649,7,9,Dessert,"Banoffee Pie",2023-01-13,11:08:55,"42 7th Parkway",,Queens,0007Q,1
+650,5,7,Side,Breadsticks,2023-01-13,11:08:55,"42 7th Parkway",,Queens,0007Q,1
+651,12,10,Pizza,"Pizza Margherita Regular",2023-01-13,11:08:55,"42 7th Parkway",,Queens,0007Q,1
+652,7,10,Side,"Caesar Salad",2023-01-13,13:09:17,"42 7th Parkway",,Queens,0007Q,1
+653,3,10,Beverage,"Fanta 33cl",2023-01-13,13:09:17,"42 7th Parkway",,Queens,0007Q,1
+654,6,10,Beverage,"Fanta 1.5l",2023-01-13,13:09:17,"42 7th Parkway",,Queens,0007Q,1
+655,4,5,Beverage,"Sparkling Water 1.5l",2023-01-13,19:42:18,"42 7th Parkway",,Queens,0007Q,0
+656,20,10,Pizza,"Pizza Seafood Large",2023-01-13,19:42:18,"42 7th Parkway",,Queens,0007Q,0
+657,16,5,Pizza,"Pizza Diavola Regular",2023-01-13,19:42:18,"42 7th Parkway",,Queens,0007Q,0
+658,15,4,Pizza,"Pizza Pepperoni Regular",2023-01-13,19:42:18,"42 7th Parkway",,Queens,0007Q,0
+659,4,9,Beverage,"Sparkling Water 1.5l",2023-01-13,21:34:42,"42 7th Parkway",,Queens,0007Q,1
+660,14,10,Pizza,"Pizza Margherita Large",2023-01-13,21:34:42,"42 7th Parkway",,Queens,0007Q,1
+661,19,7,Pizza,"Pizza Quattro Formaggi Large",2023-01-13,21:34:42,"42 7th Parkway",,Queens,0007Q,1
+662,19,7,Pizza,"Pizza Quattro Formaggi Large",2023-01-13,21:34:42,"42 7th Parkway",,Queens,0007Q,1
+663,5,7,Dessert,"Fruit salad",2023-01-13,21:34:42,"42 7th Parkway",,Queens,0007Q,1
+664,6,1,Dessert,"Pistachio Ice Crearn",2023-01-13,11:16:01,"42 7th Parkway",,Queens,0007Q,1
+665,7,3,Side,"Caesar Salad",2023-01-13,11:16:01,"42 7th Parkway",,Queens,0007Q,1
+666,6,6,Dessert,"Chocolate Ice Cream",2023-01-13,19:11:52,"42 7th Parkway",,Queens,0007Q,0
+667,16,2,Pizza,"Pizza Diavola Regular",2023-01-13,13:50:50,"1 Pierstorff Street","Apt 437",Manhattan,0001M,1
+668,16,9,Pizza,"Pizza Diavola Regular",2023-01-13,13:50:50,"1 Pierstorff Street","Apt 437",Manhattan,0001M,1
+669,6,1,Side,"Garlic Bread",2023-01-13,13:50:50,"1 Pierstorff Street","Apt 437",Manhattan,0001M,1
+670,6,10,Dessert,"Chocolate Ice Cream",2023-01-13,19:58:02,"1 Pierstorff Street","Apt 437",Manhattan,0001M,1
+671,19,6,Pizza,"Pizza Quattro Formaggi Large",2023-01-13,19:58:02,"1 Pierstorff Street","Apt 437",Manhattan,0001M,1
+672,20,1,Pizza,"Pizza Seafood Large",2023-01-13,19:58:02,"1 Pierstorff Street","Apt 437",Manhattan,0001M,1
+673,7,6,Dessert,"Banoffee Pie",2023-01-13,10:54:33,"1 Pierstorff Street","Apt 437",Manhattan,0001M,0
+674,15,5,Pizza,"Pizza Parmigiana Regular",2023-01-13,10:54:33,"1 Pierstorff Street","Apt 437",Manhattan,0001M,0
+675,4,5,Beverage,"Sparkling Water 1.5l",2023-01-13,22:55:20,"1 Pierstorff Street","Apt 437",Manhattan,0001M,0
+676,3,4,Beverage,"Coca Cola 33cl",2023-01-13,22:55:20,"1 Pierstorff Street","Apt 437",Manhattan,0001M,0
+677,6,8,Beverage,"Diet Coke 1.5l",2023-01-13,22:55:20,"1 Pierstorff Street","Apt 437",Manhattan,0001M,0
+678,19,5,Pizza,"Pizza Diavola Large",2023-01-13,22:55:20,"1 Pierstorff Street","Apt 437",Manhattan,0001M,0
+679,7,3,Side,"Caesar Salad",2023-01-13,22:55:20,"1 Pierstorff Street","Apt 437",Manhattan,0001M,0
+680,19,2,Pizza,"Pizza Quattro Formaggi Large",2023-01-13,13:30:41,"1 Pierstorff Street","Apt 437",Manhattan,0001M,1
+681,6,4,Dessert,"Vanilla Ice Cream",2023-01-13,22:52:17,"863 Tennyson Parkway",,Brooklyn,0005B,1
+682,17,9,Pizza,"Pizza Hawaiian Large",2023-01-13,22:52:17,"863 Tennyson Parkway",,Brooklyn,0005B,1
+683,18,2,Pizza,"Pizza Napolitana Large",2023-01-13,22:52:17,"863 Tennyson Parkway",,Brooklyn,0005B,1
+684,17,7,Pizza,"Pizza Seafood Regular",2023-01-13,19:26:10,"863 Tennyson Parkway",,Brooklyn,0005B,0
+685,6,7,Beverage,"Coca Cola 1.5l",2023-01-13,19:50:01,"59 Stoughton Plaza",,Queens,0007Q,1
+686,18,1,Pizza,"Pizza Napolitana Large",2023-01-13,19:50:01,"59 Stoughton Plaza",,Queens,0007Q,1
+687,16,6,Pizza,"Pizza Diavola Regular",2023-01-13,19:50:01,"59 Stoughton Plaza",,Queens,0007Q,1
+688,6,4,Beverage,"7 Up 1.5l",2023-01-13,21:31:09,"59 Stoughton Plaza",,Queens,0007Q,1
+689,3,1,Beverage,"Diet Coke 33cl",2023-01-13,22:42:32,"752 Towne Alley",,Brooklyn,0005B,0
+690,16,8,Pizza,"Pizza Diavola Regular",2023-01-13,19:27:10,"7287 Fuller Place",,Manhattan,0001M,1
+691,5,2,Side,Breadsticks,2023-01-13,19:27:10,"7287 Fuller Place",,Manhattan,0001M,1
+692,17,4,Pizza,"Pizza Hawaiian Large",2023-01-13,19:27:10,"7287 Fuller Place",,Manhattan,0001M,1
+693,18,7,Pizza,"Pizza Parmigiana Large",2023-01-13,19:27:10,"7287 Fuller Place",,Manhattan,0001M,1
+694,7,2,Side,"Chicken Wings",2023-01-13,18:38:14,"7287 Fuller Place",,Manhattan,0001M,0
+695,6,8,Dessert,"Pistachio Ice Crearn",2023-01-13,22:57:47,"663 Miller Circle","Suite 96",Bronx,0004B,0
+696,2,9,Beverage,"Sparkling Water 33cl",2023-01-13,22:57:47,"663 Miller Circle","Suite 96",Bronx,0004B,0
+697,7,2,Dessert,"Banoffee Pie",2023-01-13,22:57:47,"663 Miller Circle","Suite 96",Bronx,0004B,0
+698,18,4,Pizza,"Pizza Parmigiana Large",2023-01-13,19:07:39,"663 Miller Circle","Suite 96",Bronx,0004B,1
+699,6,6,Dessert,"Strawberry Ice Cream",2023-01-13,19:07:39,"663 Miller Circle","Suite 96",Bronx,0004B,1
+700,5,6,Dessert,"Fruit salad",2023-01-13,19:07:39,"663 Miller Circle","Suite 96",Bronx,0004B,1
+701,18,5,Pizza,"Pizza Napolitana Large",2023-01-13,19:07:39,"663 Miller Circle","Suite 96",Bronx,0004B,1
+702,3,6,Beverage,"Diet Coke 33cl",2023-01-13,19:07:39,"663 Miller Circle","Suite 96",Bronx,0004B,1
+703,16,7,Pizza,"Pizza Quattro Formaggi Regular",2023-01-13,22:52:23,"663 Miller Circle","Suite 96",Bronx,0004B,0
+704,16,10,Pizza,"Pizza Quattro Formaggi Regular",2023-01-13,22:52:23,"663 Miller Circle","Suite 96",Bronx,0004B,0
+705,17,9,Pizza,"Pizza Pepperoni Large",2023-01-13,22:52:23,"663 Miller Circle","Suite 96",Bronx,0004B,0
+706,5,2,Dessert,"Fruit salad",2023-01-13,22:52:23,"663 Miller Circle","Suite 96",Bronx,0004B,0
+707,6,6,Beverage,"Fanta 1.5l",2023-01-13,22:52:23,"663 Miller Circle","Suite 96",Bronx,0004B,0
+708,6,1,Beverage,"Diet Coke 1.5l",2023-01-13,11:19:31,"663 Miller Circle","Suite 96",Bronx,0004B,1
+709,7,7,Dessert,"Banoffee Pie",2023-01-13,11:19:31,"663 Miller Circle","Suite 96",Bronx,0004B,1
+710,5,1,Dessert,"Chocolate Brownie",2023-01-13,11:19:31,"663 Miller Circle","Suite 96",Bronx,0004B,1
+711,2,6,Beverage,"Sparkling Water 33cl",2023-01-13,11:19:31,"663 Miller Circle","Suite 96",Bronx,0004B,1
+712,6,1,Side,"Garlic Bread",2023-01-13,20:12:45,"663 Miller Circle","Suite 96",Bronx,0004B,1
+713,16,5,Pizza,"Pizza Diavola Regular",2023-01-13,20:12:45,"663 Miller Circle","Suite 96",Bronx,0004B,1
+714,5,7,Dessert,"Fruit salad",2023-01-13,20:12:45,"663 Miller Circle","Suite 96",Bronx,0004B,1
+715,15,1,Pizza,"Pizza Parmigiana Regular",2023-01-14,20:12:45,"663 Miller Circle","Suite 96",Bronx,0004B,1
+716,20,5,Pizza,"Pizza Seafood Large",2023-01-14,22:10:31,"663 Miller Circle","Suite 96",Bronx,0004B,0
+717,18,4,Pizza,"Pizza Parmigiana Large",2023-01-14,22:10:31,"663 Miller Circle","Suite 96",Bronx,0004B,0
+718,17,8,Pizza,"Pizza Pepperoni Large",2023-01-14,22:10:31,"663 Miller Circle","Suite 96",Bronx,0004B,0
+719,14,6,Pizza,"Pizza Margherita Large",2023-01-14,22:10:31,"663 Miller Circle","Suite 96",Bronx,0004B,0
+720,5,2,Dessert,"Chocolate Brownie",2023-01-14,22:02:04,"663 Miller Circle","Suite 96",Bronx,0004B,1
+721,5,8,Dessert,"Fruit salad",2023-01-14,22:02:04,"663 Miller Circle","Suite 96",Bronx,0004B,1
+722,14,5,Pizza,"Pizza Margherita Large",2023-01-14,22:02:04,"663 Miller Circle","Suite 96",Bronx,0004B,1
+723,16,9,Pizza,"Pizza Diavola Regular",2023-01-14,18:41:08,"663 Miller Circle","Suite 96",Bronx,0004B,0
+724,6,1,Beverage,"Coca Cola 1.5l",2023-01-14,18:41:08,"663 Miller Circle","Suite 96",Bronx,0004B,0
+725,5,2,Side,Breadsticks,2023-01-14,18:41:08,"663 Miller Circle","Suite 96",Bronx,0004B,0
+726,12,4,Pizza,"Pizza Margherita Regular",2023-01-14,18:41:08,"663 Miller Circle","Suite 96",Bronx,0004B,0
+727,4,9,Beverage,"Sparkling Water 1.5l",2023-01-14,20:25:26,"663 Miller Circle","Suite 96",Bronx,0004B,0
+728,5,10,Dessert,"Fruit salad",2023-01-14,20:25:26,"663 Miller Circle","Suite 96",Bronx,0004B,0
+729,15,3,Pizza,"Pizza Hawaiian Regular",2023-01-14,20:25:26,"663 Miller Circle","Suite 96",Bronx,0004B,0
+730,3,7,Beverage,"Coca Cola 33cl",2023-01-14,20:25:26,"663 Miller Circle","Suite 96",Bronx,0004B,0
+731,2,9,Beverage,"Sparkling Water 33cl",2023-01-14,10:47:35,"663 Miller Circle","Suite 96",Bronx,0004B,1
+732,16,4,Pizza,"Pizza Napolitana Regular",2023-01-14,10:47:35,"663 Miller Circle","Suite 96",Bronx,0004B,1
+733,6,8,Dessert,"Pistachio Ice Crearn",2023-01-14,21:09:01,"663 Miller Circle","Suite 96",Bronx,0004B,1
+734,17,5,Pizza,"Pizza Pepperoni Large",2023-01-14,21:09:01,"663 Miller Circle","Suite 96",Bronx,0004B,1
+735,16,2,Pizza,"Pizza Diavola Regular",2023-01-14,21:09:01,"663 Miller Circle","Suite 96",Bronx,0004B,1
+736,6,5,Dessert,"Chocolate Ice Cream",2023-01-14,21:09:01,"663 Miller Circle","Suite 96",Bronx,0004B,1
+737,3,1,Beverage,"Diet Coke 33cl",2023-01-14,21:09:01,"663 Miller Circle","Suite 96",Bronx,0004B,1
+738,16,1,Pizza,"Pizza Diavola Regular",2023-01-14,21:09:01,"663 Miller Circle","Suite 96",Bronx,0004B,1
+739,7,9,Side,"Caesar Salad",2023-01-14,12:08:27,"663 Miller Circle","Suite 96",Bronx,0004B,0
+740,3,7,Beverage,"Fanta 33cl",2023-01-14,12:08:27,"663 Miller Circle","Suite 96",Bronx,0004B,0
+741,6,5,Side,"Garlic Bread",2023-01-15,12:08:27,"663 Miller Circle","Suite 96",Bronx,0004B,0
+742,6,6,Dessert,"Chocolate Ice Cream",2023-01-15,21:20:26,"663 Miller Circle","Suite 96",Bronx,0004B,0
+743,7,7,Side,"Caesar Salad",2023-01-15,21:20:26,"663 Miller Circle","Suite 96",Bronx,0004B,0
+744,2,9,Beverage,"Sparkling Water 33cl",2023-01-15,21:20:26,"663 Miller Circle","Suite 96",Bronx,0004B,0
+745,3,2,Beverage,"Coca Cola 33cl",2023-01-15,19:25:09,"663 Miller Circle","Suite 96",Bronx,0004B,1
+746,5,5,Dessert,"Fruit salad",2023-01-15,19:25:09,"663 Miller Circle","Suite 96",Bronx,0004B,1
+747,6,6,Beverage,"Coca Cola 1.5l",2023-01-15,12:19:17,"663 Miller Circle","Suite 96",Bronx,0004B,1
+748,16,3,Pizza,"Pizza Diavola Regular",2023-01-15,12:19:17,"663 Miller Circle","Suite 96",Bronx,0004B,1
+749,5,1,Dessert,"Chocolate Brownie",2023-01-15,12:19:17,"663 Miller Circle","Suite 96",Bronx,0004B,1
+750,6,1,Beverage,"Diet Coke 1.5l",2023-01-15,12:19:17,"663 Miller Circle","Suite 96",Bronx,0004B,1
+751,6,4,Dessert,"Chocolate Ice Cream",2023-01-15,12:24:25,"663 Miller Circle","Suite 96",Bronx,0004B,0
+752,16,3,Pizza,"Pizza Quattro Formaggi Regular",2023-01-15,12:24:25,"663 Miller Circle","Suite 96",Bronx,0004B,0
+753,18,9,Pizza,"Pizza Napolitana Large",2023-01-15,19:41:12,"663 Miller Circle","Suite 96",Bronx,0004B,0
+754,6,2,Beverage,"Fanta 1.5l",2023-01-15,19:41:12,"663 Miller Circle","Suite 96",Bronx,0004B,0
+755,3,6,Beverage,"Coca Cola 33cl",2023-01-15,11:49:42,"663 Miller Circle","Suite 96",Bronx,0004B,1
+756,6,1,Dessert,"Chocolate Ice Cream",2023-01-15,11:49:42,"663 Miller Circle","Suite 96",Bronx,0004B,1
+757,6,5,Beverage,"Diet Coke 1.5l",2023-01-15,21:33:06,"663 Miller Circle","Suite 96",Bronx,0004B,0
+758,17,4,Pizza,"Pizza Hawaiian Large",2023-01-15,21:33:06,"663 Miller Circle","Suite 96",Bronx,0004B,0
+759,6,3,Beverage,"Fanta 1.5l",2023-01-15,18:49:49,"663 Miller Circle","Suite 96",Bronx,0004B,1
+760,19,2,Pizza,"Pizza Quattro Formaggi Large",2023-01-15,18:49:49,"663 Miller Circle","Suite 96",Bronx,0004B,1
+761,6,7,Beverage,"7 Up 1.5l",2023-01-15,18:49:49,"663 Miller Circle","Suite 96",Bronx,0004B,1
+762,6,2,Dessert,"Strawberry Ice Cream",2023-01-15,19:59:36,"663 Miller Circle","Suite 96",Bronx,0004B,1
+763,6,7,Beverage,"Fanta 1.5l",2023-01-15,12:03:36,"7848 Arrowood Place",,Brooklyn,0005B,0
+764,6,10,Beverage,"Diet Coke 1.5l",2023-01-15,20:09:17,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+765,3,3,Beverage,"Coca Cola 33cl",2023-01-15,20:09:17,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+766,3,5,Beverage,"Coca Cola 33cl",2023-01-15,20:09:17,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+767,6,2,Beverage,"Diet Coke 1.5l",2023-01-15,22:30:24,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+768,20,5,Pizza,"Pizza Seafood Large",2023-01-15,22:30:24,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+769,5,6,Dessert,"Fruit salad",2023-01-15,22:30:24,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+770,6,8,Dessert,"Pistachio Ice Crearn",2023-01-15,22:30:24,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+771,6,5,Beverage,"Diet Coke 1.5l",2023-01-15,19:36:10,"2144 Lyons Lane","Room 165",Manhattan,0001M,0
+772,18,1,Pizza,"Pizza Parmigiana Large",2023-01-15,19:36:10,"2144 Lyons Lane","Room 165",Manhattan,0001M,0
+773,6,9,Dessert,"Vanilla Ice Cream",2023-01-15,19:17:43,"2144 Lyons Lane","Room 165",Manhattan,0001M,0
+774,20,2,Pizza,"Pizza Seafood Large",2023-01-15,19:17:43,"2144 Lyons Lane","Room 165",Manhattan,0001M,0
+775,2,1,Beverage,"Sparkling Water 33cl",2023-01-15,19:17:43,"2144 Lyons Lane","Room 165",Manhattan,0001M,0
+776,3,5,Beverage,"Diet Coke 33cl",2023-01-15,12:36:02,"2144 Lyons Lane","Room 165",Manhattan,0001M,1
+777,18,4,Pizza,"Pizza Napolitana Large",2023-01-15,13:08:06,"969 Almo Park",,Brooklyn,0005B,1
+778,20,4,Pizza,"Pizza Seafood Large",2023-01-15,13:08:06,"969 Almo Park",,Brooklyn,0005B,1
+779,14,1,Pizza,"Pizza Margherita Large",2023-01-15,13:08:06,"969 Almo Park",,Brooklyn,0005B,1
+780,4,6,Beverage,"Sparkling Water 1.5l",2023-01-15,13:08:06,"969 Almo Park",,Brooklyn,0005B,1
+781,16,6,Pizza,"Pizza Diavola Regular",2023-01-15,13:08:06,"969 Almo Park",,Brooklyn,0005B,1
+782,6,9,Dessert,"Chocolate Ice Cream",2023-01-15,13:08:06,"969 Almo Park",,Brooklyn,0005B,1
+783,7,6,Side,"Chicken Wings",2023-01-15,21:50:52,"969 Almo Park",,Brooklyn,0005B,0
+784,6,2,Beverage,"Diet Coke 1.5l",2023-01-15,12:34:04,"3480 Anthes Pass",,Brooklyn,0005B,1
+785,12,2,Pizza,"Pizza Margherita Regular",2023-01-15,12:34:04,"3480 Anthes Pass",,Brooklyn,0005B,1
+786,6,1,Dessert,"Strawberry Ice Cream",2023-01-15,10:41:37,"3480 Anthes Pass",,Brooklyn,0005B,1
+787,6,5,Beverage,"Diet Coke 1.5l",2023-01-15,10:41:37,"3480 Anthes Pass",,Brooklyn,0005B,1
+788,20,7,Pizza,"Pizza Seafood Large",2023-01-15,10:41:37,"3480 Anthes Pass",,Brooklyn,0005B,1
+789,3,5,Beverage,"Diet Coke 33cl",2023-01-16,10:41:37,"3480 Anthes Pass",,Brooklyn,0005B,1
+790,19,7,Pizza,"Pizza Diavola Large",2023-01-16,10:41:37,"3480 Anthes Pass",,Brooklyn,0005B,1
+791,17,4,Pizza,"Pizza Hawaiian Large",2023-01-16,18:33:17,"3480 Anthes Pass",,Brooklyn,0005B,0
+792,19,4,Pizza,"Pizza Diavola Large",2023-01-16,18:33:17,"3480 Anthes Pass",,Brooklyn,0005B,0
+793,6,4,Beverage,"Fanta 1.5l",2023-01-16,18:33:17,"3480 Anthes Pass",,Brooklyn,0005B,0
+794,6,2,Beverage,"Fanta 1.5l",2023-01-16,21:38:10,"3480 Anthes Pass",,Brooklyn,0005B,1
+795,6,2,Dessert,"Strawberry Ice Cream",2023-01-16,21:38:10,"3480 Anthes Pass",,Brooklyn,0005B,1
+796,19,5,Pizza,"Pizza Diavola Large",2023-01-16,21:38:10,"3480 Anthes Pass",,Brooklyn,0005B,1
+797,6,3,Beverage,"Diet Coke 1.5l",2023-01-16,18:48:06,"3480 Anthes Pass",,Brooklyn,0005B,1
+798,6,3,Dessert,"Chocolate Ice Cream",2023-01-16,18:48:06,"3480 Anthes Pass",,Brooklyn,0005B,1
+799,16,5,Pizza,"Pizza Quattro Formaggi Regular",2023-01-16,12:22:18,"3480 Anthes Pass",,Brooklyn,0005B,0
+800,16,2,Pizza,"Pizza Napolitana Regular",2023-01-16,13:11:19,"99 Continental Pass",,Bronx,0004B,0
+801,6,8,Beverage,"Fanta 1.5l",2023-01-16,13:11:19,"99 Continental Pass",,Bronx,0004B,0
+802,15,1,Pizza,"Pizza Pepperoni Regular",2023-01-16,11:28:27,"99 Continental Pass",,Bronx,0004B,1
+803,3,1,Beverage,"Coca Cola 33cl",2023-01-16,11:28:27,"99 Continental Pass",,Bronx,0004B,1
+804,17,5,Pizza,"Pizza Hawaiian Large",2023-01-16,11:28:27,"99 Continental Pass",,Bronx,0004B,1
+805,4,6,Beverage,"Sparkling Water 1.5l",2023-01-16,20:42:45,"99 Continental Pass",,Bronx,0004B,1
+806,7,6,Dessert,"Banoffee Pie",2023-01-16,13:57:11,"663 Miller Circle","Suite 96",Bronx,0004B,1
+807,6,7,Beverage,"Diet Coke 1.5l",2023-01-16,13:57:11,"663 Miller Circle","Suite 96",Bronx,0004B,1
+808,3,7,Beverage,"Coca Cola 33cl",2023-01-16,11:05:14,"663 Miller Circle","Suite 96",Bronx,0004B,1
+809,2,6,Beverage,"Sparkling Water 33cl",2023-01-16,11:05:14,"663 Miller Circle","Suite 96",Bronx,0004B,1
+810,6,8,Beverage,"7 Up 1.5l",2023-01-16,19:09:50,"663 Miller Circle","Suite 96",Bronx,0004B,0
+811,16,6,Pizza,"Pizza Diavola Regular",2023-01-16,19:09:50,"663 Miller Circle","Suite 96",Bronx,0004B,0
+812,3,5,Beverage,"7 Up 33cl",2023-01-16,19:09:50,"663 Miller Circle","Suite 96",Bronx,0004B,0
+813,19,3,Pizza,"Pizza Diavola Large",2023-01-16,13:34:07,"663 Miller Circle","Suite 96",Bronx,0004B,1
+814,19,7,Pizza,"Pizza Quattro Formaggi Large",2023-01-16,11:57:26,"03250 Miller Park",,Queens,0007Q,1
+815,18,2,Pizza,"Pizza Napolitana Large",2023-01-16,13:09:04,"3168 Clemons Road",,Queens,0007Q,0
+816,2,9,Beverage,"Sparkling Water 33cl",2023-01-16,13:09:04,"3168 Clemons Road",,Queens,0007Q,0
+817,7,6,Side,"Caesar Salad",2023-01-16,13:09:04,"3168 Clemons Road",,Queens,0007Q,0
+818,17,5,Pizza,"Pizza Seafood Regular",2023-01-16,10:45:21,"3168 Clemons Road",,Queens,0007Q,0
+819,6,8,Dessert,"Strawberry Ice Cream",2023-01-16,12:30:25,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+820,15,1,Pizza,"Pizza Parmigiana Regular",2023-01-16,12:30:25,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+821,17,9,Pizza,"Pizza Seafood Regular",2023-01-16,12:30:25,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+822,15,3,Pizza,"Pizza Hawaiian Regular",2023-01-16,12:30:25,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+823,6,4,Side,"Garlic Bread",2023-01-16,13:25:47,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+824,6,9,Beverage,"Diet Coke 1.5l",2023-01-16,13:25:47,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+825,3,9,Beverage,"7 Up 33cl",2023-01-16,13:25:47,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+826,7,5,Side,"Caesar Salad",2023-01-16,12:36:13,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+827,6,1,Beverage,"Diet Coke 1.5l",2023-01-16,12:36:13,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+828,17,8,Pizza,"Pizza Hawaiian Large",2023-01-16,12:36:28,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+829,17,5,Pizza,"Pizza Pepperoni Large",2023-01-16,12:36:28,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+830,20,1,Pizza,"Pizza Seafood Large",2023-01-16,12:36:28,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+831,6,7,Beverage,"Fanta 1.5l",2023-01-16,12:36:28,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+832,5,8,Side,Breadsticks,2023-01-16,22:03:37,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+833,20,3,Pizza,"Pizza Seafood Large",2023-01-16,22:03:37,"695 Sunbrook Avenue",,"Staten Island",0010SI,0
+834,5,10,Dessert,"Chocolate Brownie",2023-01-16,10:50:39,"695 Sunbrook Avenue",,"Staten Island",0010SI,1
+835,5,9,Side,Breadsticks,2023-01-16,10:38:06,"4 Maple Wood Street",,Manhattan,0001M,1
+836,6,4,Side,"Garlic Bread",2023-01-16,10:38:06,"4 Maple Wood Street",,Manhattan,0001M,1
+837,3,3,Beverage,"Coca Cola 33cl",2023-01-16,18:48:22,"4 Maple Wood Street",,Manhattan,0001M,0
+838,17,9,Pizza,"Pizza Hawaiian Large",2023-01-16,18:48:22,"4 Maple Wood Street",,Manhattan,0001M,0
+839,6,6,Beverage,"Fanta 1.5l",2023-01-16,18:48:22,"4 Maple Wood Street",,Manhattan,0001M,0
+840,15,3,Pizza,"Pizza Parmigiana Regular",2023-01-16,18:48:22,"4 Maple Wood Street",,Manhattan,0001M,0
+841,7,3,Dessert,"Banoffee Pie",2023-01-16,22:45:33,"4 Maple Wood Street",,Manhattan,0001M,0
+842,16,9,Pizza,"Pizza Quattro Formaggi Regular",2023-01-16,13:08:31,"86 Jay Alley",,Queens,0007Q,1
+843,3,4,Beverage,"Fanta 33cl",2023-01-16,13:08:31,"86 Jay Alley",,Queens,0007Q,1
+844,6,5,Beverage,"Fanta 1.5l",2023-01-16,12:24:25,"86 Jay Alley",,Queens,0007Q,1
+845,6,5,Dessert,"Strawberry Ice Cream",2023-01-16,20:33:42,"92953 Elka Way",,"Staten Island",0010SI,0
+846,15,9,Pizza,"Pizza Hawaiian Regular",2023-01-16,11:31:07,"9 Lunder Place",,"Staten Island",0010SI,1
+847,6,3,Dessert,"Pistachio Ice Crearn",2023-01-16,11:31:07,"9 Lunder Place",,"Staten Island",0010SI,1
+848,6,3,Beverage,"Coca Cola 1.5l",2023-01-16,11:31:07,"9 Lunder Place",,"Staten Island",0010SI,1
+849,16,7,Pizza,"Pizza Quattro Formaggi Regular",2023-01-16,11:31:07,"9 Lunder Place",,"Staten Island",0010SI,1
+850,19,7,Pizza,"Pizza Diavola Large",2023-01-16,11:31:07,"9 Lunder Place",,"Staten Island",0010SI,1
+851,7,8,Dessert,"Banoffee Pie",2023-01-16,11:31:07,"9 Lunder Place",,"Staten Island",0010SI,1
+852,7,4,Side,"Chicken Wings",2023-01-16,20:19:07,"9 Lunder Place",,"Staten Island",0010SI,1
+853,6,1,Beverage,"Diet Coke 1.5l",2023-01-16,19:11:56,"1 Schurz Place",,Manhattan,0001M,0
+854,6,9,Beverage,"Coca Cola 1.5l",2023-01-16,19:11:56,"1 Schurz Place",,Manhattan,0001M,0
+855,16,3,Pizza,"Pizza Quattro Formaggi Regular",2023-01-16,19:11:56,"1 Schurz Place",,Manhattan,0001M,0
+856,17,1,Pizza,"Pizza Seafood Regular",2023-01-16,19:11:56,"1 Schurz Place",,Manhattan,0001M,0
+857,5,1,Dessert,"Fruit salad",2023-01-16,19:35:46,"1 Schurz Place",,Manhattan,0001M,1
+858,3,4,Beverage,"Coca Cola 33cl",2023-01-16,19:35:46,"1 Schurz Place",,Manhattan,0001M,1
+859,17,3,Pizza,"Pizza Pepperoni Large",2023-01-16,19:35:46,"1 Schurz Place",,Manhattan,0001M,1
+860,3,1,Beverage,"Fanta 33cl",2023-01-16,12:45:52,"1 Schurz Place",,Manhattan,0001M,1
+861,6,10,Side,"Garlic Bread",2023-01-16,12:45:52,"1 Schurz Place",,Manhattan,0001M,1
+862,16,3,Pizza,"Pizza Quattro Formaggi Regular",2023-01-16,21:05:27,"1 Schurz Place",,Manhattan,0001M,0
+863,6,6,Beverage,"Diet Coke 1.5l",2023-01-16,21:05:27,"1 Schurz Place",,Manhattan,0001M,0
+864,6,9,Dessert,"Pistachio Ice Crearn",2023-01-16,11:20:07,"1 Schurz Place",,Manhattan,0001M,1
+865,6,3,Dessert,"Chocolate Ice Cream",2023-01-16,11:20:07,"1 Schurz Place",,Manhattan,0001M,1
+866,6,9,Dessert,"Vanilla Ice Cream",2023-01-16,12:39:28,"1 Schurz Place",,Manhattan,0001M,0
+867,16,9,Pizza,"Pizza Quattro Formaggi Regular",2023-01-17,19:00:34,"64950 Tennyson Pass",,Queens,0007Q,1
+868,19,4,Pizza,"Pizza Quattro Formaggi Large",2023-01-17,19:00:34,"64950 Tennyson Pass",,Queens,0007Q,1
+869,16,7,Pizza,"Pizza Diavola Regular",2023-01-17,13:04:41,"64950 Tennyson Pass",,Queens,0007Q,1
+870,6,1,Dessert,"Chocolate Ice Cream",2023-01-17,13:04:41,"64950 Tennyson Pass",,Queens,0007Q,1
+871,6,6,Dessert,"Chocolate Ice Cream",2023-01-17,21:14:08,"64950 Tennyson Pass",,Queens,0007Q,0
+872,2,4,Beverage,"Sparkling Water 33cl",2023-01-17,21:14:08,"64950 Tennyson Pass",,Queens,0007Q,0
+873,16,1,Pizza,"Pizza Diavola Regular",2023-01-17,21:46:26,"64950 Tennyson Pass",,Queens,0007Q,1
+874,15,6,Pizza,"Pizza Hawaiian Regular",2023-01-17,21:46:26,"64950 Tennyson Pass",,Queens,0007Q,1
+875,6,6,Beverage,"7 Up 1.5l",2023-01-17,21:46:26,"64950 Tennyson Pass",,Queens,0007Q,1
+876,16,1,Pizza,"Pizza Napolitana Regular",2023-01-17,21:46:26,"64950 Tennyson Pass",,Queens,0007Q,1
+877,16,3,Pizza,"Pizza Napolitana Regular",2023-01-17,13:32:11,"64950 Tennyson Pass",,Queens,0007Q,1
+878,3,8,Beverage,"Diet Coke 33cl",2023-01-17,13:32:11,"64950 Tennyson Pass",,Queens,0007Q,1
+879,18,9,Pizza,"Pizza Parmigiana Large",2023-01-17,13:32:11,"64950 Tennyson Pass",,Queens,0007Q,1
+880,6,5,Beverage,"Fanta 1.5l",2023-01-17,13:32:11,"64950 Tennyson Pass",,Queens,0007Q,1
+881,6,3,Dessert,"Chocolate Ice Cream",2023-01-17,21:09:05,"64950 Tennyson Pass",,Queens,0007Q,0
+882,6,6,Dessert,"Strawberry Ice Cream",2023-01-17,10:43:14,"3869 Sutherland Way","Suite 16",Queens,0007Q,1
+883,6,10,Beverage,"Coca Cola 1.5l",2023-01-17,20:46:57,"8 Leroy Court",,Brooklyn,0005B,1
+884,6,3,Beverage,"Diet Coke 1.5l",2023-01-17,20:46:57,"8 Leroy Court",,Brooklyn,0005B,1
+885,4,7,Beverage,"Sparkling Water 1.5l",2023-01-17,20:46:57,"8 Leroy Court",,Brooklyn,0005B,1
+886,3,2,Beverage,"Coca Cola 33cl",2023-01-17,20:46:57,"8 Leroy Court",,Brooklyn,0005B,1
+887,16,2,Pizza,"Pizza Diavola Regular",2023-01-17,13:39:56,"8 Leroy Court",,Brooklyn,0005B,0
+888,15,6,Pizza,"Pizza Pepperoni Regular",2023-01-17,13:39:56,"8 Leroy Court",,Brooklyn,0005B,0
+889,5,5,Dessert,"Chocolate Brownie",2023-01-17,13:18:54,"8 Leroy Court",,Brooklyn,0005B,1
+890,3,5,Beverage,"Diet Coke 33cl",2023-01-17,21:05:12,"8 Dahle Hill",,Manhattan,0001M,1
+891,12,8,Pizza,"Pizza Margherita Regular",2023-01-17,21:05:12,"8 Dahle Hill",,Manhattan,0001M,1
+892,18,3,Pizza,"Pizza Napolitana Large",2023-01-17,21:05:12,"8 Dahle Hill",,Manhattan,0001M,1
+893,17,1,Pizza,"Pizza Pepperoni Large",2023-01-17,21:05:12,"8 Dahle Hill",,Manhattan,0001M,1
+894,7,5,Dessert,"Banoffee Pie",2023-01-17,10:43:38,"8 Dahle Hill",,Manhattan,0001M,0
+895,6,10,Beverage,"Fanta 1.5l",2023-01-17,10:43:38,"8 Dahle Hill",,Manhattan,0001M,0
+896,6,6,Dessert,"Pistachio Ice Crearn",2023-01-17,10:43:38,"8 Dahle Hill",,Manhattan,0001M,0
+897,6,2,Side,"Garlic Bread",2023-01-17,12:43:37,"8 Dahle Hill",,Manhattan,0001M,1
+898,6,3,Dessert,"Vanilla Ice Cream",2023-01-17,12:43:37,"8 Dahle Hill",,Manhattan,0001M,1
+899,19,2,Pizza,"Pizza Quattro Formaggi Large",2023-01-17,12:43:37,"8 Dahle Hill",,Manhattan,0001M,1
+900,14,10,Pizza,"Pizza Margherita Large",2023-01-17,18:45:50,"8 Dahle Hill",,Manhattan,0001M,1
+901,14,3,Pizza,"Pizza Margherita Large",2023-01-17,18:45:50,"8 Dahle Hill",,Manhattan,0001M,1
+902,6,1,Dessert,"Pistachio Ice Crearn",2023-01-17,11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+903,15,3,Pizza,"Pizza Hawaiian Regular",2023-01-17,11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+904,15,6,Pizza,"Pizza Hawaiian Regular",2023-01-17,11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+905,5,7,Side,Breadsticks,2023-01-17,11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+906,6,5,Beverage,"Fanta 1.5l",2023-01-17,11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+907,19,2,Pizza,"Pizza Diavola Large",2023-01-17,11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+908,18,2,Pizza,"Pizza Napolitana Large",2023-01-17,11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+909,16,5,Pizza,"Pizza Quattro Formaggi Regular",2023-01-17,11:07:40,"8 Dahle Hill",,Manhattan,0001M,0
+910,7,6,Dessert,"Banoffee Pie",2023-01-17,11:00:25,"8 Dahle Hill",,Manhattan,0001M,0
+911,3,9,Beverage,"7 Up 33cl",2023-01-17,20:12:34,"26555 Eastlawn Pass",,Bronx,0004B,1
+912,18,6,Pizza,"Pizza Napolitana Large",2023-01-17,20:12:34,"26555 Eastlawn Pass",,Bronx,0004B,1
+913,5,2,Side,Breadsticks,2023-01-17,19:12:20,"26555 Eastlawn Pass",,Bronx,0004B,1
+914,2,4,Beverage,"Sparkling Water 33cl",2023-01-17,19:12:20,"26555 Eastlawn Pass",,Bronx,0004B,1
+915,6,3,Dessert,"Chocolate Ice Cream",2023-01-17,21:57:56,"26555 Eastlawn Pass",,Bronx,0004B,0
+916,14,1,Pizza,"Pizza Margherita Large",2023-01-17,21:57:14,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+917,16,7,Pizza,"Pizza Quattro Formaggi Regular",2023-01-17,21:57:14,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+918,3,1,Beverage,"Fanta 33cl",2023-01-17,21:57:14,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+919,6,4,Side,"Garlic Bread",2023-01-17,21:57:14,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+920,6,6,Beverage,"Coca Cola 1.5l",2023-01-17,21:57:14,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+921,6,5,Beverage,"Coca Cola 1.5l",2023-01-17,21:57:14,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+922,5,3,Dessert,"Chocolate Brownie",2023-01-17,11:13:50,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+923,14,7,Pizza,"Pizza Margherita Large",2023-01-17,11:13:50,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,1
+924,6,7,Beverage,"Coca Cola 1.5l",2023-01-17,12:35:17,"066 Ronald Regan Trail","2nd Floor",Brooklyn,0005B,0
+925,14,7,Pizza,"Pizza Margherita Large",2023-01-17,20:51:00,"3 Tennyson Alley",,Manhattan,0001M,1
+926,15,5,Pizza,"Pizza Parmigiana Regular",2023-01-17,20:51:00,"3 Tennyson Alley",,Manhattan,0001M,1
+927,5,2,Side,Breadsticks,2023-01-17,20:51:00,"3 Tennyson Alley",,Manhattan,0001M,1
+928,4,4,Beverage,"Sparkling Water 1.5l",2023-01-17,20:51:00,"3 Tennyson Alley",,Manhattan,0001M,1
+929,6,3,Beverage,"Diet Coke 1.5l",2023-01-17,11:45:12,"3 Tennyson Alley",,Manhattan,0001M,0
+930,15,2,Pizza,"Pizza Hawaiian Regular",2023-01-17,11:45:12,"3 Tennyson Alley",,Manhattan,0001M,0
+931,15,6,Pizza,"Pizza Parmigiana Regular",2023-01-17,11:45:12,"3 Tennyson Alley",,Manhattan,0001M,0
+932,16,5,Pizza,"Pizza Quattro Formaggi Regular",2023-01-17,11:45:12,"3 Tennyson Alley",,Manhattan,0001M,0
+933,6,2,Dessert,"Vanilla Ice Cream",2023-01-17,13:05:29,"3 Tennyson Alley",,Manhattan,0001M,0
+934,7,5,Side,"Chicken Wings",2023-01-17,13:05:29,"3 Tennyson Alley",,Manhattan,0001M,0
+935,16,2,Pizza,"Pizza Diavola Regular",2023-01-17,13:05:29,"3 Tennyson Alley",,Manhattan,0001M,0
+936,7,1,Side,"Caesar Salad",2023-01-17,11:46:30,"3 Tennyson Alley",,Manhattan,0001M,1
+937,17,2,Pizza,"Pizza Pepperoni Large",2023-01-17,11:46:30,"3 Tennyson Alley",,Manhattan,0001M,1
+938,15,5,Pizza,"Pizza Parmigiana Regular",2023-01-17,11:46:30,"3 Tennyson Alley",,Manhattan,0001M,1
+939,17,5,Pizza,"Pizza Seafood Regular",2023-01-17,11:46:30,"3 Tennyson Alley",,Manhattan,0001M,1
+940,7,8,Dessert,"Banoffee Pie",2023-01-17,11:46:30,"3 Tennyson Alley",,Manhattan,0001M,1
+941,6,4,Dessert,"Chocolate Ice Cream",2023-01-17,11:04:34,"3 Tennyson Alley",,Manhattan,0001M,1
+942,15,6,Pizza,"Pizza Hawaiian Regular",2023-01-17,11:04:34,"3 Tennyson Alley",,Manhattan,0001M,1
+943,19,9,Pizza,"Pizza Diavola Large",2023-01-17,21:32:00,"3 Tennyson Alley",,Manhattan,0001M,0
+944,6,9,Dessert,"Strawberry Ice Cream",2023-01-17,21:32:00,"3 Tennyson Alley",,Manhattan,0001M,0
+945,17,3,Pizza,"Pizza Seafood Regular",2023-01-17,21:32:00,"3 Tennyson Alley",,Manhattan,0001M,0
+946,18,5,Pizza,"Pizza Parmigiana Large",2023-01-17,21:32:00,"3 Tennyson Alley",,Manhattan,0001M,0
+947,7,3,Dessert,"Banoffee Pie",2023-01-17,18:35:10,"3 Tennyson Alley",,Manhattan,0001M,1
+948,19,3,Pizza,"Pizza Diavola Large",2023-01-17,13:20:22,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+949,6,7,Beverage,"Fanta 1.5l",2023-01-17,13:20:22,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+950,15,5,Pizza,"Pizza Pepperoni Regular",2023-01-17,13:20:22,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+951,20,1,Pizza,"Pizza Seafood Large",2023-01-17,21:33:13,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+952,19,10,Pizza,"Pizza Quattro Formaggi Large",2023-01-17,21:33:13,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+953,5,4,Dessert,"Chocolate Brownie",2023-01-17,21:33:13,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+954,5,4,Side,Breadsticks,2023-01-18,21:33:13,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+955,15,5,Pizza,"Pizza Hawaiian Regular",2023-01-18,21:33:13,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+956,6,4,Dessert,"Pistachio Ice Crearn",2023-01-18,22:08:11,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+957,17,2,Pizza,"Pizza Seafood Regular",2023-01-18,22:08:11,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+958,6,2,Dessert,"Vanilla Ice Cream",2023-01-18,22:08:11,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+959,5,5,Dessert,"Chocolate Brownie",2023-01-18,21:31:39,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+960,16,2,Pizza,"Pizza Napolitana Regular",2023-01-18,21:31:39,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+961,3,3,Beverage,"Diet Coke 33cl",2023-01-18,21:31:39,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+962,17,10,Pizza,"Pizza Seafood Regular",2023-01-18,21:31:39,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+963,6,5,Dessert,"Chocolate Ice Cream",2023-01-18,10:47:14,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+964,17,4,Pizza,"Pizza Seafood Regular",2023-01-18,10:47:14,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+965,15,2,Pizza,"Pizza Parmigiana Regular",2023-01-18,10:47:14,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+966,15,6,Pizza,"Pizza Hawaiian Regular",2023-01-18,10:47:14,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,0
+967,19,3,Pizza,"Pizza Quattro Formaggi Large",2023-01-18,12:42:49,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+968,6,6,Dessert,"Pistachio Ice Crearn",2023-01-18,12:42:49,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+969,5,2,Dessert,"Chocolate Brownie",2023-01-18,12:42:49,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+970,6,3,Dessert,"Pistachio Ice Crearn",2023-01-18,12:42:49,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+971,17,4,Pizza,"Pizza Seafood Regular",2023-01-18,22:44:14,"261 Norway Maple Drive","Suite 7",Manhattan,0001M,1
+972,6,7,Dessert,"Chocolate Ice Cream",2023-01-18,10:59:56,"259 Arrowood Avenue",,Manhattan,0001M,0
+973,15,4,Pizza,"Pizza Pepperoni Regular",2023-01-18,10:59:56,"259 Arrowood Avenue",,Manhattan,0001M,0
+974,5,1,Side,Breadsticks,2023-01-18,10:59:56,"259 Arrowood Avenue",,Manhattan,0001M,0
+975,2,1,Beverage,"Sparkling Water 33cl",2023-01-18,12:06:20,"259 Arrowood Avenue",,Manhattan,0001M,1
+976,6,3,Beverage,"Diet Coke 1.5l",2023-01-18,12:06:20,"259 Arrowood Avenue",,Manhattan,0001M,1
+977,17,8,Pizza,"Pizza Hawaiian Large",2023-01-18,20:09:18,"259 Arrowood Avenue",,Manhattan,0001M,1
+978,3,2,Beverage,"7 Up 33cl",2023-01-18,20:09:18,"259 Arrowood Avenue",,Manhattan,0001M,1
+979,17,3,Pizza,"Pizza Seafood Regular",2023-01-18,12:50:17,"259 Arrowood Avenue",,Manhattan,0001M,0
+980,2,10,Beverage,"Sparkling Water 33cl",2023-01-18,12:50:17,"259 Arrowood Avenue",,Manhattan,0001M,0
+981,15,3,Pizza,"Pizza Hawaiian Regular",2023-01-18,12:50:17,"259 Arrowood Avenue",,Manhattan,0001M,0
+982,7,1,Side,"Caesar Salad",2023-01-18,11:12:50,"259 Arrowood Avenue",,Manhattan,0001M,1
+983,7,1,Dessert,"Banoffee Pie",2023-01-18,11:12:50,"259 Arrowood Avenue",,Manhattan,0001M,1
+984,15,4,Pizza,"Pizza Pepperoni Regular",2023-01-18,11:12:50,"259 Arrowood Avenue",,Manhattan,0001M,1
+985,7,3,Dessert,"Banoffee Pie",2023-01-18,11:12:50,"259 Arrowood Avenue",,Manhattan,0001M,1
+986,5,7,Dessert,"Chocolate Brownie",2023-01-18,12:36:20,"259 Arrowood Avenue",,Manhattan,0001M,0
+987,16,2,Pizza,"Pizza Quattro Formaggi Regular",2023-01-18,12:36:20,"259 Arrowood Avenue",,Manhattan,0001M,0
+988,16,4,Pizza,"Pizza Diavola Regular",2023-01-18,12:36:20,"259 Arrowood Avenue",,Manhattan,0001M,0
+989,16,3,Pizza,"Pizza Quattro Formaggi Regular",2023-01-18,12:36:20,"259 Arrowood Avenue",,Manhattan,0001M,0
+990,6,4,Side,"Garlic Bread",2023-01-18,12:36:20,"259 Arrowood Avenue",,Manhattan,0001M,0
+991,7,2,Side,"Caesar Salad",2023-01-18,12:36:20,"259 Arrowood Avenue",,Manhattan,0001M,0
+992,6,2,Dessert,"Chocolate Ice Cream",2023-01-18,12:36:20,"259 Arrowood Avenue",,Manhattan,0001M,0
+993,17,5,Pizza,"Pizza Hawaiian Large",2023-01-18,11:05:07,"259 Arrowood Avenue",,Manhattan,0001M,0
+994,15,9,Pizza,"Pizza Parmigiana Regular",2023-01-18,20:06:09,"8 Leroy Court",,Brooklyn,0005B,1
+995,16,2,Pizza,"Pizza Quattro Formaggi Regular",2023-01-18,20:06:09,"8 Leroy Court",,Brooklyn,0005B,1
+996,17,6,Pizza,"Pizza Hawaiian Large",2023-01-18,20:06:09,"8 Leroy Court",,Brooklyn,0005B,1
+997,18,2,Pizza,"Pizza Parmigiana Large",2023-01-18,20:06:09,"8 Leroy Court",,Brooklyn,0005B,1
+998,20,4,Pizza,"Pizza Seafood Large",2023-01-18,22:51:53,"8 Leroy Court",,Brooklyn,0005B,1
+999,6,6,Side,"Garlic Bread",2023-01-18,22:51:53,"8 Leroy Court",,Brooklyn,0005B,1
+1000,6,6,Beverage,"Diet Coke 1.5l",2023-01-18,22:51:53,"8 Leroy Court",,Brooklyn,0005B,1
