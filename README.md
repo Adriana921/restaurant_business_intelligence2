@@ -60,17 +60,27 @@ The detailed SQL query was created as follows:
 
 ## Dashboard
 
-
-
+![00_orders](https://github.com/user-attachments/assets/286cfc67-1bda-4406-95ca-43786f41969c)
+![01_inventory](https://github.com/user-attachments/assets/089e96b3-8472-4ea6-bb4a-333847f8422f)
+![02_staff](https://github.com/user-attachments/assets/c12b07b5-24c0-4272-b34d-434ae732055b)
 
 
 ## Conclusions
 
-
-
-
-
+- Inventory costs are heavily concentrated in a few ingredients, **bread**, **pizza base** and **milk** which make up the majority of inventory spend.
+- Sales are concistent but margin evaluation is needed as only January generated **$48.7k** in sales but the inventory spend is very high.
+- This inventory over spend can be due to data mismatch in the data scope like including stockpiles or that some items are not under consumption level.
+- Delivery dominates order volume with over **60%**, which impacts operational cost structure, such as delivery staffing, packaging, and timing.
+- Staff cost is reasonable well distributed with **$18.8k** in total staff costs and **992** hours worked with an average hourly cost of **$17**.
+- Top-selling items are driving sales consistently like the **regular and large variants of Diavola, Hawaiian and Margherita pizza** dominate revenue.
+  
 ## Recommendations
+
+- Consider separating purchased vs. consumed inventory to avoid misleading cost insights.
+- Inventory costs for January is too high relative to sales. Clarify whether this includes warehouse restocking.
+- Focus on optimizing top ingredients that are high cost to avoid waste, price volatility, and negotiate supplier opportunities.
+- Balance staffing vs. order demand to make staff shifts consistent and align them to the daily trends and improve efficiency.
+- Track delivery costs separately and consider adding delivery fees, optimizing routes, and assessing delivery-only product profitability.
 
 
 
